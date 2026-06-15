@@ -39,7 +39,10 @@ Text nằm trực tiếp trong `index.html` — sửa thẳng. Mỗi section có
 Đổi ảnh: thay file trong `images/` (giữ nguyên tên) hoặc sửa `src` trong HTML.
 
 ## Ghi chú
-- Trang được sinh từ script `build.mjs` (đọc nội dung trích xuất). Bạn có thể sửa trực tiếp
-  `index.html`/`styles.css` mà không cần script — script chỉ là công cụ dựng lần đầu.
-- Phần chi tiết "Mục tiêu/Nội dung" của 4 Module được rút gọn thành thẻ tóm tắt. Nếu cần
-  đầy đủ chi tiết từng module, báo mình bổ sung.
+- Trang được sinh từ script `_build/build.mjs` (đọc nội dung trích xuất `content.json` +
+  cấu trúc `struct.json`). Bạn có thể sửa trực tiếp `index.html`/`styles.css` mà không cần
+  script — script chỉ là công cụ dựng lần đầu.
+- Tiêu đề lớn dùng font **Anton**; chữ tiếng Việt thiếu glyph nên fallback sang serif —
+  đúng như bản gốc hiển thị (xem biến `--display` trong styles.css nếu muốn đổi).
+- 4 Module có đầy đủ panel "Mục tiêu học tập" + "Nội dung" (mở rộng bằng thẻ `<details>`).
+- Ảnh tham chiếu bản gốc nằm trong `screenshot/` (không commit lên git, chỉ lưu local).

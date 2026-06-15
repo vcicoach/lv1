@@ -9,6 +9,7 @@ await mkdir(IMGDIR, { recursive: true });
 
 const data = JSON.parse(await readFile('C:/claude/icf-lv1-clone/content.json', 'utf8'));
 const S = data.sections;
+const struct = JSON.parse(await readFile('C:/claude/icf-lv1-clone/struct.json', 'utf8'));
 
 // ---- image handling ----
 const usedImages = new Set();
@@ -275,31 +276,49 @@ for (let k = 0; k < 4; k++) {
 </section>`;
 }
 
-// ---- CURRICULUM MODULES (S15) ----
+// ---- CURRICULUM MODULES (S15) — module + panel Mục tiêu/Nội dung ----
 {
   const s = sec(15);
   const h1 = s.heads.find(h => h.tag === 'H1');
-  // overview bullets: paras 0..6 (until 'Tư duy đúng'); modules built from H2 groups
-  // Build modules from H2 "Module x" headings
-  const h2s = s.heads.filter(h => h.tag === 'H2');
-  const modules = [];
-  for (const h of h2s) {
-    if (/^Module/i.test(h.text)) modules.push({ title: h.text, meta: [] });
-    else if (modules.length) modules[modules.length - 1].meta.push(h.text);
+  const curSec = struct.find(x => x.id === 'section-W58EyOU0jM');
+  const rows = curSec ? curSec.rows.map(r => r.cols[0]?.items || []) : [];
+  // overview row = the row whose first item mentions "Chương trình bao gồm"
+  const ovRow = rows.find(items => items.some(it => /Chương trình bao gồm/.test(it.text || '')));
+  const overview = ovRow ? [...new Set(ovRow.filter(it => it.t === 'li').map(it => it.text))] : [];
+  // module rows = first heading starts with "Module"
+  const modRows = rows.filter(items => /^Module/i.test(items[0]?.text || ''));
+  function parseModule(items) {
+    const m = { title: '', meta: [], intro: [], objective: '', content: [] };
+    let mode = 'intro'; const seenI = new Set(), seenC = new Set();
+    for (const it of items) {
+      const t = (it.text || '').trim();
+      if (it.t === 'h') {
+        if (/^Module/i.test(t)) m.title = t;
+        else if (/^(Hình thức|Thời lượng)/i.test(t)) m.meta.push(t);
+        else if (/Mục tiêu/i.test(t)) mode = 'obj';
+        else if (/Nội dung/i.test(t)) mode = 'content';
+      } else if (it.t === 'li') {
+        if (mode === 'intro' && !seenI.has(t)) { seenI.add(t); m.intro.push(t); }
+      } else if (it.t === 'p') {
+        if (mode === 'obj' && !m.objective) m.objective = t;
+        else if (mode === 'content') { const c = t.replace(/^\d+\.\s*/, ''); if (c && !seenC.has(c)) { seenC.add(c); m.content.push(c); } }
+      }
+    }
+    return m;
   }
-  // overview list = first paras that look like bullets
-  const overview = s.paras.filter(p => /^(\d+|5 ngày|4 phiên|2 phiên|3 phiên|16 giờ|Bài tập|Chương trình bao gồm)/.test(p)).slice(0, 7);
+  const modules = modRows.map(parseModule);
   html += `
 <section class="curriculum">
   <div class="container">
     <h2 class="section-title center">${esc(h1?.text)}</h2>
-    <ul class="overview-list">
-      ${overview.map(o => `<li>${esc(o)}</li>`).join('\n      ')}
-    </ul>
+    ${overview.length ? `<ul class="overview-list">${overview.map(o => `<li>${esc(o)}</li>`).join('')}</ul>` : ''}
     <div class="modules">
-      ${modules.map((m, i) => `<div class="module-card">
+      ${modules.map(m => `<div class="module-card">
         <h3 class="green">${esc(m.title)}</h3>
         ${m.meta.map(mt => `<p class="module-meta">${esc(mt)}</p>`).join('\n        ')}
+        ${m.intro.length ? `<ul class="module-intro">${m.intro.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+        ${m.objective ? `<details class="module-panel"><summary>Mục tiêu học tập</summary><div class="acc-body"><p>${esc(m.objective)}</p></div></details>` : ''}
+        ${m.content.length ? `<details class="module-panel"><summary>Nội dung</summary><div class="acc-body"><ol>${m.content.map(c => `<li>${esc(c.replace(/^\d+\.\s*/, ''))}</li>`).join('')}</ol></div></details>` : ''}
       </div>`).join('\n      ')}
     </div>
   </div>
