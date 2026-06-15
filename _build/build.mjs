@@ -25,6 +25,14 @@ function bgImg(field) {
 
 const CTA = '#dang-ky'; // TODO: thay bằng link form đăng ký thật
 
+// Section side/background images that live as CSS background-image in the source
+// (not <img>), captured from the original design.
+const NARR_IMG = {
+  3: '67907c81141a59044ab77ad7-b5223465ba2c.jpeg', // "Thế giới đang thay đổi" — ảnh phải
+  4: '67907c815d20c86fb0754742-c041dbfa63e2.jpeg', // "Trong thời đại bất ổn" — ảnh trái
+};
+const BENEFIT_PHOTO = '678bc672d06aae450db56722-307c4da0ea82.jpeg';
+
 const esc = s => (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 // helper: get section by index
 const sec = i => S[i];
@@ -64,6 +72,7 @@ let html = '';
 <section id="top" class="hero">
   <div class="container hero-grid">
     <div class="hero-copy">
+      ${badge ? `<img src="${img(badge.src)}" alt="ICF Accredited — Level 1" class="hero-badge">` : ''}
       <h1 class="display">${esc(h1?.text)}</h1>
       <p class="hero-sub">${esc(h2?.text)}</p>
       <ul class="hero-bullets">
@@ -73,7 +82,6 @@ let html = '';
     </div>
     <div class="hero-media">
       ${photo ? `<img src="${img(photo.src)}" alt="Coach Trần Tiến Công" class="hero-photo">` : ''}
-      ${badge ? `<img src="${img(badge.src)}" alt="ICF Accredited — Level 1" class="hero-badge">` : ''}
     </div>
   </div>
 </section>`;
@@ -96,15 +104,20 @@ let html = '';
 </section>`;
 }
 
-// ---- TWO NARRATIVE BLOCKS (S3, S4) ----
+// ---- TWO NARRATIVE BLOCKS (S3, S4) — 2 cột text + ảnh, xen kẽ ----
 for (const idx of [3, 4]) {
   const s = sec(idx);
   const h1 = s.heads.find(h => h.tag === 'H1');
+  const reverse = idx === 4; // S4: ảnh bên trái
+  const photo = NARR_IMG[idx];
   html += `
 <section class="narrative">
-  <div class="container narrow">
-    <h2 class="section-title">${esc(h1?.text)}</h2>
-    ${s.paras.map(p => `<p>${esc(p)}</p>`).join('\n    ')}
+  <div class="container narr-grid${reverse ? ' reverse' : ''}">
+    <div class="narr-copy">
+      <h2 class="section-title sm">${esc(h1?.text)}</h2>
+      ${s.paras.map(p => `<p>${esc(p)}</p>`).join('\n      ')}
+    </div>
+    <div class="narr-media">${photo ? `<img src="${img('assets/' + photo)}" alt="">` : ''}</div>
   </div>
 </section>`;
 }
@@ -143,16 +156,17 @@ for (const idx of [3, 4]) {
   const lead = s.heads.find(h => h.tag === 'H2' && h.color.includes('115'));
   const cards = s.heads.filter(h => h.tag === 'H2' && !h.color.includes('115'));
   const paras = s.paras;
+  const left = cards.slice(0, 3), right = cards.slice(3, 6);
+  const benItem = (c, i) => `<div class="benefit-item"><h3>${esc(c.text)}</h3><p>${esc(paras[i] || '')}</p></div>`;
   html += `
 <section class="benefits">
   <div class="container">
-    <h2 class="section-title center">${esc(h1?.text)}</h2>
-    <p class="lead green center">${esc(lead?.text)}</p>
-    <div class="card-grid cols-3">
-      ${cards.map((c, i) => `<div class="benefit-card">
-        <h3>${esc(c.text)}</h3>
-        <p>${esc(paras[i] || '')}</p>
-      </div>`).join('\n      ')}
+    <h2 class="section-title">${esc(h1?.text)}</h2>
+    <p class="lead green">${esc(lead?.text)}</p>
+    <div class="benefit-3col">
+      <div class="benefit-col">${left.map((c, i) => benItem(c, i)).join('')}</div>
+      <div class="benefit-photo"><img src="${img('assets/' + BENEFIT_PHOTO)}" alt=""></div>
+      <div class="benefit-col">${right.map((c, i) => benItem(c, i + 3)).join('')}</div>
     </div>
   </div>
 </section>`;
