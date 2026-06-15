@@ -25,16 +25,20 @@ images/         — 39 ảnh (logo, ảnh coach, chứng nhận, collage, avatar
 | `--display` | Anton | font tiêu đề |
 | `--body` | Inter | font nội dung |
 
-## Nút "Đăng ký / Tư vấn" → link form ngoài
-Hiện tất cả nút CTA dùng placeholder `href="#dang-ky"` (cuộn xuống block đăng ký).
-Để bấm nút **nhảy sang form bên ngoài**, tìm & thay toàn bộ trong `index.html`:
+## Nút "Đăng ký / Tư vấn" → form ngoài
+Tất cả nút CTA đã trỏ tới form tư vấn bên ngoài, **mở tab mới**:
 
 ```
-href="#dang-ky"   →   href="https://link-form-cua-ban"   (thêm target="_blank" nếu muốn mở tab mới)
+href="https://go.vcicoach.com/icf-lv1-tu-van" target="_blank" rel="noopener"
 ```
 
-Có 7 nút CTA dùng `#dang-ky`: Hero, mục "4 - Cộng đồng", mục "10 điểm khác biệt", block giá,
-mục Cam kết, FAQ, và nút nổi góc phải. Thay tất cả bằng find & replace là xong.
+Có 7 nút: Hero, mục "4 - Cộng đồng", mục "10 điểm khác biệt", block giá, mục Cam kết, FAQ, và nút
+nổi góc phải. Muốn đổi link khác: find & replace `https://go.vcicoach.com/icf-lv1-tu-van` trong `index.html`.
+
+## Đường dẫn (chạy được cả `/` và `/start`)
+- Trang chính nằm ở thư mục gốc → `https://<domain>/`.
+- `start/index.html` giữ lại cho các link cũ ở `/start` (quảng cáo, backlink), tự chuyển hướng về gốc và
+  **giữ nguyên tham số `?utm_...`**. Muốn `/start` là URL chính thay vì gốc thì làm ngược lại — báo mình.
 
 ## Sửa nội dung
 Text nằm trực tiếp trong `index.html` — sửa thẳng. Mỗi section có comment đánh dấu.
@@ -47,7 +51,8 @@ Text nằm trực tiếp trong `index.html` — sửa thẳng. Mỗi section có
 - Tiêu đề lớn dùng font **Anton**; chữ tiếng Việt thiếu glyph nên fallback sang serif —
   đúng như bản gốc hiển thị (xem biến `--display` trong styles.css nếu muốn đổi).
 - 4 Module có đầy đủ panel "Mục tiêu học tập" + "Nội dung" (mở rộng bằng thẻ `<details>`).
-- **Phần "Sự chuyển hoá của học viên" (video testimonials):** bản gốc nhúng video; bản static này dùng
-  ô placeholder có nút play (chưa gắn video thật). Để gắn video, thay `<div class="video-thumb">…</div>`
-  bằng thẻ `<iframe>` YouTube/Vimeo của bạn, hoặc bọc ô đó trong link `<a href="...">`.
+- **Phần "Sự chuyển hoá của học viên" (video testimonials):** bản gốc nhúng video. Hiện đang dùng
+  **ảnh thumbnail tạm** (`images/vid-*.jpg`, cắt từ ảnh chụp bản gốc) + nút play — **cần thay video thật sau**.
+  Để gắn video: thay `<img src="images/vid-*.jpg">` trong `<div class="video-thumb">` bằng `<iframe>`
+  YouTube/Vimeo, hoặc bọc cả ô trong link `<a href="...">`.
 - Ảnh tham chiếu bản gốc nằm trong `screenshot/` (không commit lên git, chỉ lưu local).

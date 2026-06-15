@@ -40,11 +40,11 @@ p{margin:0 0 1em}
 /* ---- Typography ---- */
 .display{
   font-family:var(--display);font-weight:400;letter-spacing:.5px;
-  line-height:1.05;font-size:clamp(2.4rem,5vw,4rem);text-transform:uppercase;
+  line-height:1.18;font-size:clamp(2.4rem,5vw,4rem);text-transform:uppercase;
   margin:0 0 .4em;color:var(--green);
 }
 .section-title{
-  font-family:var(--display);font-weight:400;line-height:1.12;letter-spacing:.4px;
+  font-family:var(--display);font-weight:400;line-height:1.22;letter-spacing:.4px;
   font-size:clamp(1.7rem,3.4vw,2.6rem);text-transform:uppercase;margin:0 0 .6em;color:var(--ink);
 }
 .section-title.sm{font-size:clamp(1.4rem,2.6vw,2rem)}
@@ -122,17 +122,18 @@ p{margin:0 0 1em}
 
 /* ---- Benefits (3 mục | ảnh | 3 mục) ---- */
 .benefits{padding:64px 0}
-.benefit-3col{display:grid;grid-template-columns:1fr 1.05fr 1fr;gap:36px;align-items:center;margin-top:28px}
-.benefit-col{display:flex;flex-direction:column;gap:28px}
+.benefit-3col{display:grid;grid-template-columns:1fr 1.05fr 1fr;gap:36px;align-items:stretch;margin-top:28px}
+.benefit-col{display:flex;flex-direction:column;justify-content:center;gap:28px}
 .benefit-3col .benefit-col:last-child{text-align:right}
-.benefit-item h3{font-family:var(--display);font-weight:400;color:var(--ink);font-size:1.15rem;margin:0 0 .4em;text-transform:uppercase;letter-spacing:.3px}
+.benefit-item h3{font-family:var(--display);font-weight:400;color:var(--ink);font-size:1.15rem;margin:0 0 .4em;text-transform:uppercase;letter-spacing:.3px;line-height:1.2}
 .benefit-item p{color:var(--muted);font-size:.95rem;margin:0}
-.benefit-photo img{width:100%;border-radius:16px;object-fit:cover}
+.benefit-photo{display:flex}
+.benefit-photo img{width:100%;height:100%;border-radius:16px;object-fit:cover}
 
 /* ---- For whom ---- */
 .for-whom{padding:72px 0}
 .whom-card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}
-.whom-card img{height:200px;object-fit:cover;width:100%}
+.whom-card img{aspect-ratio:3/2;object-fit:cover;width:100%;display:block}
 .whom-body{padding:24px}
 .whom-body h3{font-family:var(--display);font-weight:400;font-size:1.15rem;margin:0 0 .5em}
 .whom-body p{color:#d7dce3;font-size:.97rem;margin:0}
@@ -161,7 +162,7 @@ p{margin:0 0 1em}
   font-family:var(--display);font-size:1.4rem;line-height:1}
 .feat--teal .feat-num{background:var(--lime);color:var(--teal)}
 .feat--lime .feat-num{background:var(--teal);color:#fff}
-.feat-title{font-family:var(--display);font-size:clamp(20px,2.3vw,29px);line-height:1.06;margin:0;text-transform:uppercase}
+.feat-title{font-family:var(--display);font-size:clamp(20px,2.3vw,29px);line-height:1.2;margin:0;text-transform:uppercase}
 .feat--lime .feat-title{color:var(--navy)}
 .feat-copy p{color:inherit;opacity:.92;margin:0 0 14px}
 .feat--lime .feat-copy p{opacity:.85}
@@ -222,7 +223,7 @@ p{margin:0 0 1em}
 .price-new{display:block;font-family:var(--display);color:var(--lime);font-size:1.15rem}
 .price-new strong{font-size:1.9rem;font-weight:400;display:block}
 .pricing-signup{background:#fff;color:var(--ink);padding:40px 36px;display:flex;flex-direction:column}
-.signup-title{font-family:var(--display);font-weight:400;text-transform:uppercase;color:var(--teal);margin:0 0 14px;font-size:1.5rem;line-height:1.12}
+.signup-title{font-family:var(--display);font-weight:400;text-transform:uppercase;color:var(--teal);margin:0 0 14px;font-size:1.5rem;line-height:1.25}
 .pricing-signup p{color:var(--muted);margin:0 0 6px}
 .signup-btn{display:block;text-align:center;width:100%;margin:18px 0 16px}
 .btn-teal-d{background:var(--teal);color:#fff}
@@ -266,6 +267,8 @@ p{margin:0 0 1em}
 .results{padding:64px 0}
 .video-thumb{position:relative;aspect-ratio:16/10;border-radius:12px;overflow:hidden;
   background:linear-gradient(135deg,var(--teal),#0c272c);display:grid;place-items:center}
+.video-thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.video-thumb .play{position:relative;z-index:1}
 .video-thumb .play{width:64px;height:64px;border-radius:50%;background:rgba(255,255,255,.92);
   position:relative;box-shadow:0 6px 18px rgba(0,0,0,.25)}
 .video-thumb .play::after{content:"";position:absolute;top:50%;left:55%;transform:translate(-50%,-50%);
