@@ -6,3 +6,6 @@ Desktop.ini
 node_modules/
 .vscode/
 .idea/
+
+# Reference screenshots (kept locally, not part of the site)
+screenshot/
