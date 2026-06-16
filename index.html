@@ -522,7 +522,7 @@
     <p class="lead">Điều tuyệt vời nhất từ Coaching tại VCI là chứng kiến sự thành công của học viên.</p>
     <p class="lead">Transformation Coach không chỉ thay đổi cuộc sống cá nhân mà còn tác động đến công việc và sự nghiệp tương lai của họ.</p>
     <article class="result-feature">
-      <div class="video-thumb"><img src="images/vid-roi400.jpg" alt=""><span class="play"></span></div>
+      <div class="video-thumb" data-yt="Xgq0jHHDbnE"><img src="images/vid-roi400.jpg" alt=""><span class="play"></span></div>
       <div class="result-feature-body">
         <h3 class="green">Hành trình Coaching: ROI 400%, Thu Nhập Hơn 1,4 Tỷ Đồng</h3>
         <p>Em thấy được Ước Mơ Lớn của mình.</p>
@@ -532,7 +532,7 @@
       </div>
     </article>
     <article class="result-feature">
-      <div class="video-thumb"><img src="images/vid-15ty.jpg" alt=""><span class="play"></span></div>
+      <div class="video-thumb" data-yt="zPm1ncqwrXE"><img src="images/vid-15ty.jpg" alt=""><span class="play"></span></div>
       <div class="result-feature-body">
         <h3 class="green">Bứt phá doanh thu hơn 1,5 tỷ đồng trong 8 tháng</h3>
         <p>Trước khi tham gia chương trình Legacy tại Học viện VCI, tôi chưa từng nghĩ rằng mình có thể đạt được những cột mốc đáng kinh ngạc như hôm nay. Sau 9 tháng học tập và rèn luyện trong môi trường của đội ngũ VCI và dưới sự dẫn dắt của Thầy Trần Tiến Công, tôi đã vượt 120% kế hoạch năm 2024 với doanh thu hơn 1,5 tỷ đồng và đồng hành cùng 11 dự án, trong đó có 1 dự án tái tục thành công.</p>
@@ -541,17 +541,17 @@
     </article>
     <div class="result-grid">
       <figure class="result-vid">
-        <div class="video-thumb sm"><img src="images/vid-leconghung.jpg" alt=""><span class="play"></span></div>
+        <div class="video-thumb sm" data-yt="Uhu5JTTdkNQ"><img src="images/vid-leconghung.jpg" alt=""><span class="play"></span></div>
         <h3 class="green">Vợ em, bố em, con em cảm ơn đến thầy. Thầy đã mang đến cho em một cơ hội mới, nghề nghiệp mới, tầm cao mới của cuộc sống</h3>
         <figcaption><strong>LÊ CÔNG HƯNG</strong><span>Chủ Doanh Nghiệp &amp; High Performance Coach</span></figcaption>
       </figure>
       <figure class="result-vid">
-        <div class="video-thumb sm"><img src="images/vid-trinhhoaivan.jpg" alt=""><span class="play"></span></div>
+        <div class="video-thumb sm" data-yt="OfMR2f4PFYY"><img src="images/vid-trinhhoaivan.jpg" alt=""><span class="play"></span></div>
         <h3 class="green">Chỉ một năm học tập đã mang lại cho tôi công cụ chuyển hoá cuộc sống, lãnh đạo bằng hơn 15 năm trước</h3>
         <figcaption><strong>Trịnh Hoài Văn</strong><span>Cựu Giám Đốc Đào Tạo &amp; Growth Mindset Coach</span></figcaption>
       </figure>
       <figure class="result-vid">
-        <div class="video-thumb sm"><img src="images/vid-nguyenmanhhung.jpg" alt=""><span class="play"></span></div>
+        <div class="video-thumb sm" data-yt="ZFO1gSAJMEo"><img src="images/vid-nguyenmanhhung.jpg" alt=""><span class="play"></span></div>
         <h3 class="green">Đã trở thành coach chuyên nghiệp có hợp đồng coach 1-1 130 triệu</h3>
         <p>Trở thành phiên bản tốt hơn mỗi ngày. Điều quý giá nhất đó là chuyển hoá hoàn toàn mối quan hệ với vợ, con và những người xung quanh, giá trị không thể đong đếm được bằng tiền.</p>
         <figcaption><strong>Nguyễn Mạnh Hưng</strong><span>Transformation Coach</span></figcaption>
@@ -758,5 +758,20 @@
   <div class="copyright">Copyrights 2024 | VCI International | Terms &amp; Conditions</div>
 </footer>
 <a href="https://go.vcicoach.com/icf-lv1-tu-van" target="_blank" rel="noopener" class="floating-cta">Đăng ký tư vấn</a>
+<script>
+  // Bấm thumbnail -> nạp video YouTube (chỉ tải player khi bấm, giữ trang nhẹ).
+  document.querySelectorAll('.video-thumb[data-yt]').forEach(function (el) {
+    el.setAttribute('role', 'button');
+    el.setAttribute('tabindex', '0');
+    function play() {
+      var id = el.getAttribute('data-yt');
+      el.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + id +
+        '?autoplay=1&rel=0" title="Video cảm nhận học viên" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen ' +
+        'style="position:absolute;inset:0;width:100%;height:100%;border:0"></iframe>';
+    }
+    el.addEventListener('click', play);
+    el.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); play(); } });
+  });
+</script>
 </body>
 </html>
