@@ -225,6 +225,7 @@ p{margin:0 0 1em}
 .price-old{display:block;text-decoration:line-through;color:#9fb0ab}
 .price-new{display:block;font-family:var(--brand);color:var(--lime);font-size:1.15rem}
 .price-new strong{font-size:1.9rem;font-weight:400;display:block}
+.price-new small{font-family:var(--body);font-size:.82rem;color:#cfe6b0;display:block;margin-top:2px}
 .pricing-signup{background:#fff;color:var(--ink);padding:40px 36px;display:flex;flex-direction:column}
 .signup-title{font-family:var(--display);font-weight:400;text-transform:uppercase;color:var(--teal);margin:0 0 14px;font-size:1.5rem;line-height:1.25}
 .pricing-signup p{color:var(--muted);margin:0 0 6px}
