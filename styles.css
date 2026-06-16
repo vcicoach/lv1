@@ -101,10 +101,11 @@ p{margin:0 0 1em}
 
 /* ---- Narrative (2 cột text + ảnh, xen kẽ) ---- */
 .narrative{padding:56px 0}
-.narr-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+.narr-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:stretch}
 .narr-grid.reverse .narr-media{order:-1}
 .narr-copy p{color:var(--muted);margin-bottom:.9em}
-.narr-media img{width:100%;border-radius:16px;object-fit:cover}
+.narr-media{display:flex}
+.narr-media img{width:100%;height:100%;border-radius:16px;object-fit:cover}
 
 /* ---- Why ---- */
 .why{padding:64px 0;background:var(--paper)}
@@ -155,8 +156,9 @@ p{margin:0 0 1em}
 .feat:last-child{margin-bottom:0}
 .feat--teal{background:var(--teal);color:#fff}
 .feat--lime{background:var(--lime);color:var(--navy)}
-.feat-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:44px;align-items:center}
-.feat-media img{width:100%;border-radius:14px;display:block}
+.feat-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:44px;align-items:stretch}
+.feat-media{display:flex}
+.feat-media img{width:100%;height:100%;border-radius:14px;display:block;object-fit:cover}
 .feat-head{display:flex;align-items:center;gap:18px;margin-bottom:18px}
 .feat-num{flex:none;width:48px;height:48px;border-radius:50%;display:grid;place-items:center;
   font-family:var(--display);font-size:1.4rem;line-height:1}
@@ -337,6 +339,7 @@ p{margin:0 0 1em}
   .benefit-3col .benefit-col:last-child{text-align:left}
   .benefit-photo{order:-1}
   .feat-media{order:-1}
+  .narr-media img,.feat-media img{height:auto}
   .feat{padding:32px 24px}
   .card-grid.cols-3,.why-list,.modules,.footer-grid,.tcard-grid,.result-grid{grid-template-columns:1fr 1fr}
   .result-feature{grid-template-columns:1fr;gap:22px}
