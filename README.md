@@ -48,8 +48,9 @@ Text nằm trực tiếp trong `index.html` — sửa thẳng. Mỗi section có
 - Trang được sinh từ script `_build/build.mjs` (đọc nội dung trích xuất `content.json` +
   cấu trúc `struct.json`). Bạn có thể sửa trực tiếp `index.html`/`styles.css` mà không cần
   script — script chỉ là công cụ dựng lần đầu.
-- Tiêu đề lớn dùng font **Anton**; chữ tiếng Việt thiếu glyph nên fallback sang serif —
-  đúng như bản gốc hiển thị (xem biến `--display` trong styles.css nếu muốn đổi).
+- Font tiêu đề: `--brand` (**Anton**, đậm) chỉ dùng cho tiêu đề thương hiệu lớn "TRANSFORMATION COACHING";
+  còn lại tiêu đề section/feature dùng `--display` = **Inter** cho dễ đọc (Anton hiển thị tiếng Việt quá đậm).
+- `docs/noi-dung-chuan.md`: nội dung + layout chuẩn trích từ bản gốc, dùng để đối chiếu khi sửa nội dung.
 - 4 Module có đầy đủ panel "Mục tiêu học tập" + "Nội dung" (mở rộng bằng thẻ `<details>`).
 - **Phần "Sự chuyển hoá của học viên" (video testimonials):** bản gốc nhúng video. Hiện đang dùng
   **ảnh thumbnail tạm** (`images/vid-*.jpg`, cắt từ ảnh chụp bản gốc) + nút play — **cần thay video thật sau**.

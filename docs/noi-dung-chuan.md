@@ -1,0 +1,628 @@
+# Nội dung & layout chuẩn — Landing Transformation Coaching (ICF Level 1)
+
+> Trích từ bản gốc icf-lv1.vcicoach.com/start. Dùng để đối chiếu với index.html.
+> Nếu bản gốc đã TẮT đoạn nào thì xoá đoạn đó tại đây và trong index.html.
+
+## 0. Header (logo)
+
+## 1. Hero
+
+**Tiêu đề:**
+- TRANSFORMATION COACHING
+- Chuyển hoá cuộc sống - Khởi đầu giấc mơ Coach chuyên nghiệp
+
+**Nội dung:**
+- Chứng nhận Level 1, 75 giờ bởi ICF
+- Tiêu chuẩn đào tạo Quốc tế
+- Hơn 2000+ học viên
+
+## 2. Thư từ nhà sáng lập
+
+**Tiêu đề:**
+- THƯ GỬI TỪ NHÀ SÁNG LẬP VCI - TRẦN TIẾN CÔNG
+- Chào mừng bạn đã ghé thăm chương trình Transformation Coaching Level 1!
+
+**Nội dung:**
+- Tôi không biết bạn đến đây với lý do gì. Có thể bạn đang tìm kiếm một người thầy để hướng dẫn trên hành trình trở thành một coach chuyên nghiệp và sống được với nghề khai vấn. Có thể bạn là một nhà lãnh đạo, một doanh nhân đang tìm kiếm một phương pháp để phát huy tiềm năng con người, nâng cao năng lực lãnh đạo. Hoặc có lẽ bạn đang cảm thấy mắc kẹt trong cuộc sống, bế tắc trong sự nghiệp, mối quan hệ, hay con đường đi đến hạnh phúc và ý nghĩa.
+- Dù lý do là gì, tôi muốn nói với bạn rằng mọi thứ đều có thể thay đổi. Và sự thay đổi ấy không cần phải mất quá nhiều thời gian.
+- Chỉ cần bạn đồng hành cùng tôi trong 5 ngày của chương trình Transformation Coaching, tôi cam kết sẽ giúp bạn tạo ra sự chuyển hóa sâu sắc trong cuộc sống. Đây không chỉ là một lời hứa suông, mà là niềm tin được xây dựng từ hành trình hơn 13 năm của tôi với nghề khai vấn, nơi tôi đã đồng hành và chứng kiến hơn 2.000 người đạt được sự thay đổi vượt bậc.
+- Mục tiêu lớn nhất của tôi là giúp bạn không chỉ thay đổi mà còn sống trọn vẹn với cuộc sống mà bạn mong muốn. Tôi không chỉ muốn tạo ra những coach chuyên nghiệp, mà trước tiên, tôi muốn bạn trở thành phiên bản tốt nhất của chính mình - một người có khả năng tạo ra giá trị tích cực cho bản thân và những người xung quanh.
+- Trong hành trình hơn một thập kỷ qua, chưa có ai cam kết với hành trình này mà không tạo ra được sự chuyển hóa. Hơn 2.000 người tạo ra sự chuyển hóa thì có lẽ không thể sai được. Tôi tin rằng bạn sẽ là case study thành công kế tiếp, một minh chứng sống cho sự thay đổi khi bạn sẵn sàng cam kết và hành động.
+- Hãy để tôi đồng hành cùng bạn, vì tôi tin rằng điều tuyệt vời nhất đang chờ đợi bạn phía trước!
+- Cho một cuộc sống thành công & ý nghĩa.
+- Trần Tiến Công
+- Nhà sáng lập
+- VCI International
+
+## 3. Bối cảnh — Thế giới đang thay đổi
+
+**Tiêu đề:**
+- Thế giới đang thay đổi chóng mặt rất nhiều người đang cần sự định hướng và người dẫn đường
+
+**Nội dung:**
+- Từ giáo dục, sức khỏe, công việc, tài chính đến các mối quan hệ – mọi khía cạnh của cuộc sống đang đứng trước những thay đổi chưa từng có.
+- Ở khắp nơi, con người đang tự hỏi: "Liệu con đường mình đi có còn đúng?". Họ bắt đầu hoang mang về con đường mình đã chọn, và không ít người đang sống với sự lo lắng, sợ hãi về sự không rõ ràng ở phía trước.
+- Giữa những biến động ấy, họ cần một người dẫn lối – một người có thể lắng nghe, thấu hiểu, yêu thương và trên hết tin vào ước mơ của họ. Một người giúp họ lấy lại niềm hy vọng trong cuộc sống, có được sự tự tin và vượt qua những giới hạn, nỗi sợ hãi bản thân để hướng đến một cuộc sống tươi sáng và ý nghĩa hơn.
+- Bạn có tin rằng bạn có những thứ cần thiết để trở thành người dẫn lối đó? Hay ít nhất bạn có khao khát trở thành người dẫn lối? Liệu bạn có sẵn sàng trở thành người dẫn đường mà họ đang tìm kiếm?
+
+## 4. Bối cảnh — Phát triển bền vững
+
+**Tiêu đề:**
+- Trong thời đại bất ổn định - Sự phát triển bền vững luôn là điều được tìm kiếm
+
+**Nội dung:**
+- Liệu bạn có muốn chỉ tạo nên sự thay đổi nhanh chóng nhưng sau đó lại quay trở lại với thói quen cũ? Rõ ràng điều mà bạn và tôi mong muốn đó không chỉ là sự thay đổi nhanh chóng mà là sự thay đổi bền vững.
+- Coaching xuất hiện như một ngọn hải đăng dẫn lối hy vọng.
+- Coaching không chỉ đơn thuần là về Performance - đặt mục tiêu, lên kế hoạch và chinh phục mục tiêu nhanh nhất. Mà đó là hành trình đồng hành và dẫn dắt, giúp mỗi người tái khám phá mục đích sống, khơi dậy đam mê đã lãng quên, và tạo ra sự chuyển hóa sâu sắc trong cuộc đời họ. Đó chính là khai vấn chuyển hóa - Transformation Coaching mà chương trình nhắm tới.
+- Và bạn chính là người thắp sáng con đường để họ tự tin bước đi, hướng đến một cuộc sống trọn vẹn và đầy ý nghĩa khi bạn sở hữu tư duy & kỹ năng khai vấn chuyển hóa.
+
+## 5. Tại sao lại là Coaching
+
+**Tiêu đề:**
+- Tại sao lại là Coaching?
+- Bởi vì Coaching sẽ là một công cụ thiết yếu của tương lai
+- 1 - Coaching là một công cụ có khả năng kết nối sâu sắc với con người, phát huy tiềm năng con người
+- 2 - Coaching thúc đẩy tư duy sáng tạo và giải quyết vấn đề
+- 3 - Coaching hướng tới sự phát triển bền vững và ý nghĩa
+
+**Nội dung:**
+- Trong một thế giới ngày càng tự động hóa, khả năng thấu hiểu và kết nối sâu sắc với cảm xúc, suy nghĩ, và mục tiêu của người khác trở thành yếu tố quan trọng. Coaching giúp chúng ta không chỉ lắng nghe mà còn tạo ra không gian an toàn để người khác bộc lộ bản thân, mở ra cánh cửa dẫn đến sự phát triển cá nhân và chuyên môn.
+- Coaching không đưa ra câu trả lời mà tập trung vào việc kích thích tư duy, giúp người đối diện tự tìm ra giải pháp sáng tạo cho những vấn đề phức tạp. Đây là một kỹ năng không thể thiếu trong thời đại đổi mới liên tục, nơi mà tư duy sáng tạo là chìa khóa để cạnh tranh và thích nghi.
+- Trong thời đại mà nhiều người tìm kiếm ý nghĩa sâu sắc hơn trong công việc và cuộc sống, coaching mang đến cơ hội để định hình mục tiêu cá nhân phù hợp với giá trị cốt lõi. Đây không chỉ là kỹ năng mà còn là một công cụ mạnh mẽ giúp cá nhân và tổ chức tạo ra tác động tích cực và bền vững.
+- Coaching không chỉ là kỹ năng, mà còn là hành trình khai mở tiềm năng, chuyển hóa thách thức thành cơ hội, và mang lại giá trị vượt thời gian. Đây chính là kỹ năng dẫn dắt tương lai mà bất kỳ ai cũng nên sở hữu.
+
+## 6. Lợi ích của Coaching
+
+**Tiêu đề:**
+- lợi ích của coaching
+- Transformation Coaching là phương pháp đem lại sự chuyển hóa bền vững
+- Khơi dậy mục đích sống
+- Nuôi dưỡng sức mạnh nội tại
+- Phá vỡ giới hạn bản thân
+- Chinh phục thử thách
+- Hiện thực hóa ước mơ
+- Sống trọn vẹn với chính mình
+
+**Nội dung:**
+- Dẫn dắt và đánh thức ngọn lửa đam mê sâu thẳm và chạm tới ý nghĩa thực sự của cuộc sống.
+- Đồng hành cùng xây dựng sự kiên cường về cảm xúc và bình an nội tâm giúp tạo ra sự thay đổi bền vững.
+- Giúp khách hàng vượt qua những rào cản và niềm tin giới hạn để bước vào thế giới đầy cơ hội và tiềm năng.
+- Đồng hành cùng khách hàng đối mặt với những khúc quanh của cuộc đời bằng sự rõ ràng và lòng can đảm vô tận.
+- Truyền cảm hứng để khách hàng đặt ra những mục tiêu táo bạo và vững bước trên hành trình đạt được điều phi thường.
+- Truyền cảm hứng để khách hàng kiến tạo một cuộc đời tràn đầy niềm vui, sự cân bằng và hạnh phúc đích thực.
+
+## 7. Chương trình dành cho ai
+
+**Tiêu đề:**
+- Chương trình dành cho AI?
+- BẠN ĐANG ĐIỀU HÀNH HOẶC KHỞI NGHIỆP
+- BẠN ĐANG MUỐN PHÁT TRIỂN NGHỀ COACH
+- BẠN ĐANG TÌM KIẾM MỘT CÔNG VIỆC Ý NGHĨA
+- BẠN MUỐN CHUYỂN HÓA CUỘC SỐNG CỦA MÌNH
+
+**Nội dung:**
+- Nếu bạn đang trong quá trình điều hành/khởi nghiệp và đang tìm kiếm một công cụ giúp cân bằng giữa cuộc sống cá nhân và công việc. Transformation Coaching sẽ cung cấp cho bạn một bộ công cụ toàn vẹn giúp bạn nhận ra nhu cầu thật sự của bản thân và kết nối với công việc điều hành doanh nghiệp của mình.
+- Chương trình sẽ là ngọn hải đăng dành cho những người Coach mới và cả những Coach đã có kinh nghiệm trong nghề. Với cùng một mong muốn được nâng cấp chuyên môn, khám phá các mô hình khai vấn hiệu quả, thu thập thông tin từ ngành và tham gia vào cộng đồng chuyên gia khai vấn.
+- Nếu bạn đang trong hành trình tìm kiếm một sự chuyển dịch trong tương lai - Một công việc vừa giúp bạn có thể phát huy tối đa tiềm năng kiến thức và trải nghiệm sống đồng thời đem lại ý nghĩa cho xã hội. Coaching chính là nghề nghiệp phù hợp với mong muốn của bạn.
+- Nếu bạn đang tìm kiếm sự thay đổi sâu sắc trong cuộc sống cá nhân hoặc sự nghiệp, muốn tìm ra đam mê & mục đích sống bản thân, chương trình này sẽ cung cấp công cụ, chiến lược và sự hỗ trợ để giúp bạn chuyển hóa cuộc sống và trở thành phiên bản tốt đẹp nhất của chính mình.
+
+## 8. Chứng nhận quốc tế
+
+**Tiêu đề:**
+- Chứng nhận quốc tế của chương trình
+
+**Nội dung:**
+- Chứng chỉ được cấp bởi VCI International và được chứng nhận quốc tế từ Liên Đoàn Khai Vấn Quốc Tế (International Coaching Federation - ICF) - tiêu chuẩn vàng trong ngành coaching toàn cầu. Với chương trình Transformation Coaching, bạn không chỉ được đào tạo chuyên sâu về kỹ năng khai vấn mà còn được chứng nhận ICF Level 1 mở ra cánh cửa cho những cơ hội nghề nghiệp cao cấp hơn.
+
+## 9. Điều bạn sẽ nhận được
+
+**Tiêu đề:**
+- Điều bạn sẽ nhận được từ Transformation Coaching?
+- 1. LỘ TRÌNH TOÀN DIỆN ĐỂ PHÁT TRIỂN VỚI NGHỀ COACH
+- 2. CHỨNG NHẬN QUỐC TẾ
+- 3. TRẢI NGHIỆM HỌC TẬP CHUYÊN NGHIỆP
+- 4. CỘNG ĐỒNG COACH CHUYÊN NGHIỆP
+
+**Nội dung:**
+- Chương trình của VCI mang đến cho bạn một bức tranh tổng quan và lộ trình chi tiết để phát triển Coaching trở thành một công việc chuyên nghiệp.
+- Khẳng định vị thế chuyên gia của bạn bằng chứng chỉ coach cấp bởi VCI International và được công nhận quốc tế bởi ICF - điều đó có nghĩa là bạn đứng vào hàng ngũ coach uy tín quốc tế
+- Đây không chỉ là chương trình đào tạo đơn thuần mà là một trải nghiệm đáng nhớ trong cuộc đời bạn vì sự chuyển hóa sâu sắc về tư duy, niềm tin, giá trị sống của con người bạn.
+- Trở thành thành viên của VCI Coach Alumni để kết nối với những người làm nghề Coach chuyên nghiệp, Solopreneur, chuyên gia uy tín.
+
+## 10. Đặc điểm 1 — Lộ trình toàn diện
+
+**Tiêu đề:**
+- LỘ TRÌNH TOÀN DIỆN ĐỂ THÀNH CÔNG TRONG NGHỀ COACH
+
+**Nội dung:**
+- Transformation Coaching là chương trình được thiết kế kĩ lưỡng về mặt kiến thức chuyên môn và trải nghiệm thực tế trong cuộc sống.
+- Chương trình sẽ giúp bạn chuyển hóa chính cuộc sống và sự nghiệp của mình, và nhờ đó bạn thấy được giá trị và sức mạnh của Coaching.
+- Bạn sẽ được luyện tập và ứng dựng kỹ năng Coaching dưới nhiều góc nhìn đa chiều như: trong doanh nghiệp, trong đời sống, trong mối quan hệ gia đình, trong hướng nghiệp ... để tìm ra được lộ trình phát triển phù hợp với bản thân.
+
+## 11. Đặc điểm 2 — Chứng nhận
+
+**Tiêu đề:**
+- CHỨNG NHẬN được cấp bởi VCI INternational & được chứng nhận quốc tế
+
+**Nội dung:**
+- Chương trình Transformation Coaching của VCI, được chứng nhận tiêu chuẩn Level 1, 75 giờ của International Coaching Federation (ICF).
+- Chứng nhận quốc tế giúp bạn phát triển nghề Coach và nâng cao lợi thế cạnh tranh. Theo nghiên cứu của ICF năm 2023: "78% doanh nghiệp ưu tiên chọn những người Coach có chứng chỉ chuyên nghiệp'' .
+- Chứng chỉ này như là một tấm vé thông hành để bạn có thể bắt đầu với hành trình trở thành Coach chuyên nghiệp.
+
+## 12. Đặc điểm 3 — Trải nghiệm học tập
+
+**Tiêu đề:**
+- TRẢI NGHIỆM HỌC TẬP CHUYÊN NGHIỆP & MANG TÍNH CHUYỂN HÓA CAO
+
+**Nội dung:**
+- Với triết lý học tập độc đáo dựa trên mô hình Empowerment Learning Model (ELM) của VCI, giúp cho học viên thực sự có kỹ năng coaching ngay khi rời chương trình & sự tự tin để coach cho những tình huống về cuộc sống (Life Coach), công việc (Performance Coach) lãnh đạo/điều hành (Leadership/Executive Coach).
+- Áp dụng 2 phương pháp trong việc tạo sự chuyển hóa nhanh chóng và bền vững, bạn được trải nghiệm phương pháp đào tạo cường độ cao (intensive training) trong 5 ngày được chia thành 2 modules. Cùng với đó là hình thành “cơ bắp” coaching của bạn thông qua việc thực hành xuyên suốt trên khách hàng thực tế qua hơn 1 tháng - phương pháp Space Learning.
+- Bạn sẽ nhận được phản hồi trực tiếp từ Thầy Trần Tiến Công và đội ngũ VCI Crew để nâng cao năng lực của bạn. Sự chuyển hóa của bạn là điều không thể tránh khỏi!
+
+## 13. Đặc điểm 4 — Cộng đồng
+
+**Tiêu đề:**
+- TRỞ THÀNH THÀNH VIÊN TRONG CỘNG ĐỒNG COACH CHUYÊN NGHIỆP
+
+**Nội dung:**
+- Hơn 12 năm đồng hành phát triển Coaching tại Việt Nam - Cộng đồng chính là thứ mà VCI muốn đem lại cho toàn bộ học viên của mình.
+- VCI Coach Alumni là một gia đình đa dạng, nhiều màu sắc về ngành nghề và văn hoá với hơn 2.900 thành viên. VCI Coach Alumni là nơi không giới hạn và phân chia về độ tuổi, công việc hay địa vị xã hội.
+- Chúng tôi hiểu được trên hành trình phát triển bản thân bạn có thể sẽ gặp rất nhiều thách thức và cô đơn. Cộng đồng chính là môi trường để bạn có thể tìm kiếm sự giúp đỡ và đồng hành.
+- Những kết nối trong VCI Coach Alumni có thể những kết nối sâu sắc & chất lượng nhất mà không một cộng đồng Coach nào có được tại Việt Nam.
+
+## 14. 10 điểm khác biệt
+
+**Tiêu đề:**
+- 10 ĐIỂM KHÁC BIỆT CỦATRANSFORMATION COACHING
+- 1. Được hướng dẫn bởi một bậc thầy coaching hàng đầu
+- 2. Trải nghiệm chuyển hóa thực sự
+- 3. Học từ những người giỏi nhất
+- 4. Hỗ trợ độc đáo 3 lớp
+- 5. Tỷ lệ hỗ trợ sâu sát 1:4
+- 6. Phản hồi theo thời gian thực
+- 7. Phương pháp DTDPDP độc quyền
+- 8. Đồng sáng tạo trong học tập
+- 9. Cộng đồng chất lượng và gắn kết
+- 10. Cam kết phát triển bền vững sau chương trình
+- Với 10 điểm đặc biệt này, Transformational Coaching không chỉ là một chương trình học mà còn là cánh cửa đưa bạn đến sự thay đổi vượt bậc cả về kỹ năng, tư duy và cuộc sống!
+
+**Nội dung:**
+- 1. Được hướng dẫn bởi một bậc thầy coaching hàng đầu
+- Thầy Trần Tiến Công, người đã đào tạo và hỗ trợ hơn 2.000 lãnh đạo và Coach từ năm 2012 đến nay, sẽ trực tiếp đồng hành cùng bạn. Điều này mang ý nghĩa gì? Bạn không chỉ học từ một người giảng dạy về coaching, mà từ một người thực sự đang coaching, một người đã xây dựng thành công nhiều thế hệ Life Coach và Business Coach tại Việt Nam.
+- 2. Trải nghiệm chuyển hóa thực sự
+- Điều khác biệt lớn nhất chính là bạn không chỉ học các kỹ năng coaching mà còn trải nghiệm sự chuyển hóa sâu sắc trong chính cuộc sống của mình. Đây không phải là một lớp học lý thuyết đơn thuần, mà là nơi bạn thực sự được coach – một trải nghiệm giúp bạn thấu hiểu coaching và phát triển bản thân ở một cấp độ hoàn toàn khác.
+- 3. Học từ những người giỏi nhất
+- Tại chương trình, bạn sẽ được học từ người xuất sắc nhất trong ngành. Không chỉ dừng lại ở việc được giảng dạy, bạn còn nhận được sự hỗ trợ trực tiếp và phản hồi ngay trong quá trình thực hành. Việc này giúp bạn rút ngắn thời gian và nhanh chóng đạt được tiến bộ vượt bậc.
+- 4. Hỗ trợ độc đáo 3 lớp
+- Bạn sẽ nhận được sự hỗ trợ toàn diện từ Crew Team, VCI Team, và trực tiếp từ thầy Công. Mọi thắc mắc, khó khăn của bạn sẽ luôn được giải đáp kịp thời.
+- 5. Tỷ lệ hỗ trợ sâu sát 1:4
+- Mỗi nhóm 4 học viên sẽ có một Crew Team chuyên trách theo dõi tiến độ và hỗ trợ từng cá nhân, đảm bảo bạn được đồng hành một cách tận tâm và hiệu quả.
+- 6. Phản hồi theo thời gian thực
+- VCI chú trọng việc phản hồi ngay lập tức khi bạn thực hành. Quan điểm của chương trình là: Practice does not make perfect – Thực hành không tạo nên sự hoàn hảo nếu bạn thực hành sai ngay từ đầu. Với VCI, Practice makes permanent – Thực hành đúng ngay từ bước đầu tiên giúp bạn vững chắc về kỹ năng.
+- 7. Phương pháp DTDPDP độc quyền
+- Phương pháp đào tạo này giúp bạn không chỉ hiểu lý thuyết mà còn thấy rõ sự chuyển hóa qua từng buổi học. Bạn sẽ có cơ hội quan sát, thực hành và nhận phản hồi phân tích sâu sắc, giúp nâng cao kỹ năng sau mỗi lần thực hành ngay tại lớp.
+- 8. Đồng sáng tạo trong học tập
+- Bạn chính là người làm chủ hành trình học tập của mình. Phương pháp giảng dạy tương tác cao giúp bạn tạo ra những khoảnh khắc học tập đầy giá trị ngay tại lớp.
+- 9. Cộng đồng chất lượng và gắn kết
+- Tham gia chương trình, bạn sẽ được hòa mình vào cộng đồng những nhà lãnh đạo, chủ doanh nghiệp, và các chuyên gia trong lĩnh vực training, speaking, và coaching. Đây là một môi trường giàu chất lượng và đầy tình cảm, nơi bạn muốn thuộc về và phát triển lâu dài.
+- 10. Cam kết phát triển bền vững sau chương trình
+- Chương trình không chỉ dừng lại ở việc bạn hoàn thành các buổi học mà còn cung cấp sự hỗ trợ lâu dài. Bạn sẽ có cơ hội tham gia vào các buổi follow-up coaching, kết nối với cộng đồng học viên và nhận được sự hướng dẫn liên tục từ VCI để đảm bảo bạn áp dụng hiệu quả những gì đã học và tiếp tục phát triển bền vững trên hành trình coaching của mình.
+
+## 15. Lộ trình & thời gian học tập
+
+**Tiêu đề:**
+- lộ trình & thời gian học tập tổng quan
+- Module 1 - NỀN TẢNG
+- Hình thức: Đào tạo trực tiếp (Offline)
+- Thời lượng: 3 ngày (9:00-18:00)
+- Mục tiêu học tập
+- Nội dung
+- Module 2 - ỨNG DỤNG
+- Hình thức: Group Coaching (Online)
+- Thời lượng: 4 buổi
+- Mục tiêu học tập
+- Nội dung
+- Module 3 - CHUYỂN HÓA
+- Hình thức: Đào tạo trực tiếp (Offline)
+- Thời lượng: 2 ngày
+- Mục tiêu học tập
+- Nội dung
+- Module 4 - ACC MENTORING
+- Hình thức: Online Mentoring
+- Thời lượng: 2 phiên Mentoring (3,5 giờ/buổi), 3 phiên Coach 1:1 (1 giờ/phiên)
+- Mục tiêu học tập
+- Nội dung
+
+**Nội dung:**
+- Chương trình bao gồm 4 Modules được trải dài trong thời gian 3 tháng bao gồm:
+- 5 ngày học tập (8 giờ/ngày)
+- 4 phiên Group Coaching ( 2 giờ/phiên)
+- 2 phiên Group Mentoring (3,5 giờ/phiên)
+- 3 phiên 1-1 Mentoring (1 giờ/phiên)
+- 16 giờ coach thực hành
+- Bài tập Lắng Đọng, Thiết Kế Gói Khai Vấn (Coaching Package)
+- Tư duy đúng về coaching
+- 5 Kỹ năng coaching nền tảng
+- 12 Bước thực hiện một buổi coach
+- Mục tiêu học tập
+- Module 1 giúp học viên hiểu đúng về coaching, sức mạnh của coaching, có tư duy của một người coach và thực hành 5 kỹ năng nền tảng tạo hiệu quả cho quá trình coach. Và nắm được Mô hình khai vấn để thực hiện một buổi coach hoàn chỉnh. Học viên được thực hành và phản hồi ngay tại lớp từ thầy và VCI Crew Team
+- Nội dung
+- 1. Nền tảng về khai vấn, lịch sử khai vấn.2. Đạo đức khai vấn, hiểu đúng về khai vấn: sự khác biệt so với cố vấn, đào tạo, tư vấn.3. Tư duy khai vấn, 7 nguyên tắc cần tuân thủ để có buổi coach hiệu quả (Mindset).4. 5 Kỹ năng thiết yếu trong khai vấn (Skill Set).5. Mô hình khai vấn độc quyền Inspiration Coaching Matrix ™ với 12 bước đơn giản & hiệu quả để coach cho bất kỳ ai.6. 8 phiên coaching thực hành tại lớp và nhận phản hồi trực tiếp.7. ICF Core Competency Framework - khung năng lực khai vấn theo chuẩn quốc tế ICF.
+- 1. Nền tảng về khai vấn, lịch sử khai vấn.
+- 2. Đạo đức khai vấn, hiểu đúng về khai vấn: sự khác biệt so với cố vấn, đào tạo, tư vấn.
+- 3. Tư duy khai vấn, 7 nguyên tắc cần tuân thủ để có buổi coach hiệu quả (Mindset).
+- 4. 5 Kỹ năng thiết yếu trong khai vấn (Skill Set).
+- 5. Mô hình khai vấn độc quyền Inspiration Coaching Matrix ™ với 12 bước đơn giản & hiệu quả để coach cho bất kỳ ai.
+- 6. 8 phiên coaching thực hành tại lớp và nhận phản hồi trực tiếp.
+- 7. ICF Core Competency Framework - khung năng lực khai vấn theo chuẩn quốc tế ICF.
+- Module 2 tập trung vào việc ứng dụng thực tế trong cuộc sống và công việc. Học viên được phản hồi trực tiếp về năng lực coach qua mỗi phiên & hướng dẫn cách thực hiện các kĩ thuật coach hiệu quả.
+- Module 2 tập trung vào việc ứng dụng những kiến thức đã học ở Module 1 vào thực tế. Học viên sẽ đi coach thực tế 16 phiên cho các tình huống thực tế từ cảm xúc, mối quan hệ, nâng cao hiệu quả công việc, bán hàng, lãnh đạo, dạy con. Học viên sẽ được kèm cặp, định hướng, chia sẻ các cách coach những tình huống khác nhau. Học viên sẽ được phản hồi trực tiếp về kỹ năng coach theo tiêu chuẩn ICF để năng cao sự tự tin và năng lực coach
+- 1. Chia sẻ các giải pháp cho các tình huống thực tế học viên gặp phải trong quá trình coach.2. Cung cấp các kỹ thuật coach, công cụ cần thiết.3. Coach trực tiếp tại lớp để học viên có thể mô phỏng một buổi coach tuyệt vời như thế nào.4. Học viên được bắt cặp và coach tại lớp dưới sự quan sát và được nhận phản hồi từ thầy và VCI Crew Team.
+- 1. Chia sẻ các giải pháp cho các tình huống thực tế học viên gặp phải trong quá trình coach.
+- 2. Cung cấp các kỹ thuật coach, công cụ cần thiết.
+- 3. Coach trực tiếp tại lớp để học viên có thể mô phỏng một buổi coach tuyệt vời như thế nào.
+- 4. Học viên được bắt cặp và coach tại lớp dưới sự quan sát và được nhận phản hồi từ thầy và VCI Crew Team.
+- Module này giúp bạn khám phá điều gì tạo nên sự chuyển hóa của một cá nhân? Học viên được hướng dẫn để khám phá những niềm tin & giá trị, hệ điều hành định hình cuộc sống của họ. Và cung cấp kế hoạch để phát triển sự nghiệp coach chuyên nghiệp.
+- Module 3 tập trung giúp học viên có thể coach tạo ra sự chuyển hóa. Học viên sẽ được khám phá Transformation Coaching model, coach tập trung vào chiều sâu của con người tạo sự chuyển hóa - Transformation, vượt trên những suy nghĩ thông thường về coach là để tạo nên hiệu suất Performance. Module này cũng tập trung chia sẻ Lộ trình để phát triển Coaching chuyên nghiệp để bạn có thể áp dụng vào doanh nghiệp hoặc làm nghề Coach độc lập. Bạn sẽ được khám phá Closing Matrix để chuyển hóa khách hàng coach.
+- 1. Làm thế nào tạo sự chuyển hóa tư duy, thay đổi cuộc sống.2. Thấu hiểu cách não bộ hoạt động.3. Thấu hiểu Mô hình giao tiếp để có thể thấu hiểu và nâng cao khả năng tạo ảnh hưởng. Mô hình giao tiếp chính xác.4. Coaching thay đổi tiềm thức, khám phá tại sao bạn làm điều bạn làm.5. Siêu chương trình.6. Coaching Blueprint - lộ trình phát triển nghề Coach.7. Closing Matrix - 8 bước chiến lược chuyển hóa khách hàng.
+- 1. Làm thế nào tạo sự chuyển hóa tư duy, thay đổi cuộc sống.
+- 2. Thấu hiểu cách não bộ hoạt động.
+- 3. Thấu hiểu Mô hình giao tiếp để có thể thấu hiểu và nâng cao khả năng tạo ảnh hưởng. Mô hình giao tiếp chính xác.
+- 4. Coaching thay đổi tiềm thức, khám phá tại sao bạn làm điều bạn làm.
+- 5. Siêu chương trình.
+- 6. Coaching Blueprint - lộ trình phát triển nghề Coach.
+- 7. Closing Matrix - 8 bước chiến lược chuyển hóa khách hàng.
+- Module 4 tập trung vào việc kèm cặp giúp nâng cao năng lực coach theo 8 năng lực khai vấn cốt lõi để chuẩn bị cho bạn lấy được ICF ACC Credential.
+- Module 4 tập trung phản hồi giúp bạn nâng cao năng lực coach so với 8 năng lực coach lõi của ICF. Mục tiêu kép là kèm cặp nâng cao năng lực và giúp bạn tự tin để chinh phục ACC Credential, chứng chỉ cấp độ đầu tiên của bạn tại ICF.
+- 1. ICF Core Competency Framework, đi sâu vào khung năng lực.2. Phản hồi, mentor cho học viên nâng cao năng lực coach theo khung năng lực.3. Hướng dẫn trực tiếp Group và 1-1 cho tình huống cụ thể học viên đang gặp phải.4. Chia sẻ, định hướng để chuẩn bị cho bạn trong kỳ thi ICF Credentialing Exam.
+- 1. ICF Core Competency Framework, đi sâu vào khung năng lực.
+- 2. Phản hồi, mentor cho học viên nâng cao năng lực coach theo khung năng lực.
+- 3. Hướng dẫn trực tiếp Group và 1-1 cho tình huống cụ thể học viên đang gặp phải.
+- 4. Chia sẻ, định hướng để chuẩn bị cho bạn trong kỳ thi ICF Credentialing Exam.
+
+## 16. Bảng giá / Đăng ký
+
+**Tiêu đề:**
+- LỘ TRÌNH TRỞ THÀNH COACH CHUYÊN NGHIỆP
+- TRANSFORMATION COACHING
+- Đăng kí nhận tư vấn
+
+**Nội dung:**
+- Bạn sẽ nhận được:
+- Chương trình đào tạo có cấu trúc bao quát tất cả năng lực và tiêu chuẩn ICF Level 1.
+- 5 ngày học từ 09:00 - 17:00 online qua Zoom với trải nghiệm học tập đa dạng.
+- 4 phiên Thực hành coaching với phản hồi chi tiết từ các coach giàu kinh nghiệm.
+- 10 giờ mentoring đáp ứng yêu cầu nộp hồ sơ chứng nhận ACC của ICF.
+- Cơ hội thực hành coaching với đồng nghiệp trong môi trường tiêu chuẩn quốc tế ICF.
+- Định hướng rõ chương trình để đạt được chứng chỉ ICF như: ACC, PCC, MCC
+- Học phí: 65.000.000đ
+- Ưu đãi hôm nay: 58.000.000đ
+- cho Lớp Virtual
+- Tôi xác nhận cho phép VCI Team được liên lạc với tôi qua Email và Số điện thoại.
+- Đăng ký ngay
+- *** Tất cả thông tin bạn cung cấp cho chúng tôi đều được bảo mật tuyệt đối và không được sử dụng dưới bất kỳ hình thức kinh doanh phạm pháp nào. Chúng tôi chịu trách nhiệm trước pháp luật về hành động này theo quy định của bộ Công Thương Việt Nam.
+
+## 17. Cảm nhận — Hành trình từ đam mê
+
+**Tiêu đề:**
+- Hành trình từ đam mê đến thành công với nghề Coaching, Solopreuner
+- VCI đã giúp tôi tìm thấy đam mê thật sự và biến ước mơ cống hiến thành hiện thực
+- VCI mở ra cơ hội để tôi lan tỏa giá trị coaching đến toàn bộ hệ thống ngân hàng
+- Từ bỏ công việc vị trí điều hành để bắt đầu sống với đam mê
+- Khóa học tại VCI đã giúp tôi tái thiết kế hoàn toàn hệ thống chương trình của mình
+- Tôi đã thành lập cho mình một công ty chuyên về tham vấn sức khỏe
+- "Chương trình này đã giúp tôi tự tin hơn rất nhiều trong hành trình coaching và mở ra một tương lai rõ ràng, đầy cảm hứng."
+- Coaching giúp tôi biến kiến thức tử vi không chỉ dừng lại ở việc xem vận mệnh
+- Tôi đã biết kiến thức chuyên môn trở thành chương trình Coach
+- VCI đã giúp tôi tự tin đóng gói kiến thức thành sản phẩm có giá trị cho cộng đồng
+
+**Nội dung:**
+- SỰ CHUYỂN HOÁ CỦA HỌC VIÊN SAU CHƯƠNG TRÌNH
+- Từ lâu, tôi luôn khao khát làm một công việc ý nghĩa, mang lại giá trị cho cộng đồng, nhưng không biết bắt đầu từ đâu và làm thế nào để hiện thực hóa.
+- Với sự hướng dẫn tận tâm từ thầy Công tôi đã từng bước khám phá đam mê thực sự của mình.
+- Từ việc xây dựng ý tưởng cho chương trình, phát triển kỹ năng coaching đến việc học cách bán dịch vụ – tất cả đều trở nên rõ ràng và có lộ trình cụ thể.
+- Giờ đây, với vai trò là một Intimacy Coach, tôi không chỉ sống với đam mê mà còn giúp khách hàng tìm lại sự kết nối và yêu thương trong cuộc sống của họ.
+- Lê Khánh Ly
+- Intimacy Coach
+- Sau khi hoàn tất chương trình Coach tại VCI, tôi đã tổ chức thành công 3 khóa học Coaching Quản Lý Thực Chiến và 2 khóa Coaching Hiệu Suất Cao.
+- Tôi không chỉ phát triển mạnh mẽ kỹ năng quản lý mà còn hiểu sâu hơn về giá trị của coaching trong việc thúc đẩy hiệu suất và gắn kết đội ngũ.
+- Điều tuyệt vời nhất là hệ thống ngân hàng nơi tôi làm việc đã tin tưởng giao tôi triển khai chương trình Coaching nội bộ cho toàn bộ hệ thống.
+- Đây không chỉ là sự công nhận mà còn là bước ngoặt lớn trong sự nghiệp của tôi.
+- Tâm Hoàng
+- PGĐ Vietcombank Bắc Bình Dương
+- Tôi được mọi người trong cộng đồng Legacy gọi với biệt danh Nam Gồng bởi vì trước đó tôi là một người luôn chỉ biết chịu đựng và giấu đi cảm xúc thật của bản thân.
+- Đã từng có một thời gian tôi không thoải mái và bị khủng hoảng nhân diện nghiệm trọng. Tôi không biết phải theo đuổi hình nào và sống như thế nào.
+- Sau khi đồng hành cùng VCI, tôi bắt đầu hiểu về nhu cầu và giá trị của bản thân để bắt đầu thực sự sống với phiên bản thật nhất.
+- Tôi từ bỏ vị trí điều hành tại các công ty mình thành lập và tạo ra S-PEAK - Một chương trình về giao tiếp mà tôi đã ấp ủ trong một khoảng thời gian rất dài mới thực hiện được.
+- Nguyễn Hoàng Nam
+- Founder S-PEAK
+- Chương trình của VCI đã giúp mình thay đổi và xây lại toàn bộ chiến lược cho sản phẩm về Voice Coach của mình. Mình tìm kiếm được một cách làm logic, hiệu quả hơn để trong việc phân phối nội dung hiệu quả từ sản phẩm phễu đến sản phẩm giá cao.
+- 1 năm sau khóa học khai vấn K22, mình đã tạo ra 14 khóa học Online và 9 khóa học Offline ở Hà Nội và Sài Gòn.
+- Nhờ VCI và thầy Công mà Unique Voice có những bước tiến rất mạnh mẽ
+- Xuân Quỳnh
+- Unique Voice | MC đài truyền hình Việt Nam
+- Chương trình VCI giúp tôi thấu hiểu kiến thức về Coaching và áp dụng nó trong việc đào tạo về dinh dưỡng, sức khỏe.
+- 1 năm học tập cùng VCI đem đến cho tôi nhiều trải nghiệm học tập tuyệt vời. Tôi tạo ra Viện nghiên cứu và phát triển Health Coach để có thể đồng hành và giúp đỡ những người Coach trẻ hơn trên hành trình sự nghiệp của họ.
+- Chương trình sẽ không thể nào thành công mà thiếu đi sự kèm cặp của thầy Công về những kiến thức chuyên biệt trong Coaching, cách thiết kế chương trình đào tạo, cách để marketing dịch vụ bản thân và tạo phễu bán hàng để thuyết phục khách hàng.
+- Cảm ơn VCI và thầy Công về hành trình này
+- Coach Trí Dũng
+- Health Coach
+- Trước khi tham gia chương trình, tôi luôn nghĩ rằng mình là một người hướng nội, chỉ biết thu mình và chưa từng chia sẻ những kiến thức và hiểu biết sâu sắc mà mình đã tích lũy qua nhiều năm học tập và thực hành.
+- Qua chương trình, tôi nhận ra rằng mình không phải là người hướng nội mà là một người suy nghĩ sâu sắc, thích quan sát và kết nối với thế giới theo cách riêng.
+- Những năm tháng học tập và trải nghiệm của tôi có giá trị thực sự. Và giờ đây, tôi đã tự trao quyền cho chính mình để sống và làm việc xứng đáng với giá trị đó.
+- Nguyễn Thu Hoài
+- Business Coach
+- Là một người nghiên cứu sâu về tử vi trong nhiều năm, tôi luôn trăn trở về cách mang lại giá trị thực sự cho những người tìm đến mình.
+- Tử vi có thể giúp người ta hiểu về vận mệnh, tính cách, và những xu hướng trong cuộc đời, nhưng điều khiến tôi băn khoăn là: sau khi hiểu rồi, họ cần làm gì tiếp theo?
+- Chính hành trình học Coaching đã giúp tôi tìm thấy câu trả lời. Coaching không chỉ mang đến phương pháp giúp người ta thấu hiểu bản thân sâu sắc hơn mà còn trang bị công cụ để họ hành động, vượt qua giới hạn và thực sự tạo ra sự thay đổi trong cuộc sống.
+- Nhờ kết hợp hai lĩnh vực này, tôi đã xây dựng nên một chương trình hoàn toàn mới – nơi tử vi đóng vai trò như chiếc bản đồ, còn Coaching là cây cầu dẫn dắt mọi người từ nhận thức đến hành động.
+- Đây là chương trình đầu tiên tại Việt Nam kết hợp tử vi với Coaching, và tôi rất tự hào khi thấy nó không chỉ được đón nhận mà còn tạo ra giá trị lớn lao cho các học viên.
+- Hoàng Thu Hà
+- Khai vấn nhân mệnh
+- Là một người từng làm việc trong ngành F&B suốt 15 năm, tôi luôn khao khát được chia sẻ kinh nghiệm và đồng hành cùng những ai mong muốn khởi nghiệp trong lĩnh vực đầy thử thách này.
+- Khóa học tại VCI đã giúp tôi làm được điều đó. Tôi học được cách lắng nghe, thấu hiểu và hỗ trợ những người đam mê khởi nghiệp, không chỉ trong việc xây dựng một mô hình kinh doanh hiệu quả mà còn trong việc tìm thấy giá trị và đam mê thật sự của họ.
+- Giờ đây, tôi tự tin đồng hành cùng các chủ nhà hàng, quán café hay các bạn trẻ với ước mơ mở ra không gian riêng của mình.
+- Coaching không chỉ là công việc – đó là sứ mệnh giúp tôi lan tỏa giá trị và tiếp thêm sức mạnh cho những ai đang trên hành trình thực hiện giấc mơ F&B của mình.
+- Cảm ơn VCI đã giúp tôi khai phá tiềm năng và tìm thấy con đường ý nghĩa này!
+- Vũ Kiều Loan
+- F&B Coach, Founder S&L Dinner
+- Trước khi bắt đầu hành trình này, tôi từng nghĩ mình chỉ là một người đứng sau hậu trường, sử dụng kiến thức truyền thông để hỗ trợ các dự án. Nhưng tôi chưa bao giờ thực sự nghĩ rằng mình có thể biến những kinh nghiệm đó thành một khóa học thực sự có ý nghĩa.
+- Hành trình học với VCI đã thay đổi tất cả. Từng buổi học, từng bài tập đã giúp tôi hiểu rõ cách làm thế nào để phân tích, đóng gói và trình bày kiến thức của mình một cách hiệu quả.
+- Tôi không chỉ học được cách thiết kế một sản phẩm có giá trị mà còn nhận ra cách kết nối sâu sắc hơn với những người mà tôi muốn phục vụ.
+- VCI không chỉ là nơi đào tạo kỹ năng, mà còn là hành trình giúp tôi tìm lại sự tự tin và niềm tin rằng mình hoàn toàn có thể mang lại giá trị lớn hơn cho cộng đồng.
+- Queenny Ngô
+- Founder Chạm Media
+
+## 18. Tâm sự từ người tiên phong
+
+**Tiêu đề:**
+- Tâm sự từ người tiên phong
+- Coach Trần Tiến Công
+- "
+- TÁC GIẢ SÁCH COACH ĐẦU TIÊN TẠI VIỆT NAM
+- NGƯỜI TRUYỀN CẢM HỨNG
+- Mentor của nhiều thế hệ coach
+- NGƯỜI ĐAM MÊ PHÁT TRIỂN BẢN THÂN
+
+**Nội dung:**
+- Đã từ rất lâu rồi, Công vẫn luôn mơ ước về một tương lai trong đó Coaching sẽ trở thành một kỹ năng thiết yếu. Bản thân tôi khao khát nhìn thấy một thế giới trong đó Coaching không chỉ là một thực hành mà còn là một cách sống, cho phép cá nhân đạt được tiềm năng tối đa, sống hạnh phúc và tổ chức phát triển bền vững.
+- Chương trình Transformation Coaching chính là cam kết của Công và VCI với tầm nhìn xây dựng một thế hệ Coach kế cận tại Việt Nam. Công mong rằng - Bạn hãy để VCI giúp bạn mở khóa cánh cửa tiềm năng và bắt đầu hành trình biến mọi khả năng thành hiện thực.
+- Anh Trần Tiến Công là tác giả tiên phong trong lĩnh vực viết sách về Coaching. Hiện tại, anh sở hữu ba cuốn sách chuyên biệt dành cho những ai mong muốn phát triển sự nghiệp như một Coach chuyên nghiệp, bao gồm: "Khởi nghiệp độc lập bằng Khai Vấn" (2022), "Nghề Freelance Coach" (2020) và "Hành trình trở thành Coach chuyên nghiệp" (2017).
+- Nhằm mục tiêu mở rộng ảnh hưởng của Coaching trong xã hội, anh Trần Tiến Công và VCI đã triển khai nhiều chương trình nhằm giới thiệu Coaching tại Việt Nam. Trong số đó, một số chương trình nổi bật bao gồm: New Year - New You (2018 - 2024), Nghề Coach (2019 - 2024) và Sống Cảm Hứng (2017 - 2013). Những chương trình đã lan tỏa những giá trị mà Coaching mang lại cho cuộc sống.
+- Anh Trần Tiến Công, thường được biết đến với biệt danh "Coach's Mentor," là một người hướng dẫn xuất sắc trong lĩnh vực Coaching. Trong suốt 12 năm gắn bó với VCI, anh đã trực tiếp đào tạo hơn 2.000 học viên đam mê tìm hiểu về Coaching. Ngoài vai trò là người hướng dẫn, anh còn là một Coach cho nhiều chủ doanh nghiệp và các lãnh đạo cấp cao tại các tập đoàn đa quốc gia tại Việt Nam.
+- Anh Trần Tiến Công là một người có khát khao mạnh mẽ trong việc theo đuổi tri thức. Quá trình xây dựng và phát triển VCI gắn liền với hành trình phát triển cá nhân của chính anh. Với mục tiêu nâng cao chất lượng đào tạo tại VCI, anh đã miệt mài trau dồi kiến thức và kỹ năng từ những bậc thầy thế giới như Tony Robbins, Jack Canfield, Jay Abraham, Dave Buck, Joel Bauer và Marshall Goldsmith, Dan Lok, Peng Joon, Scott deMouline, Heidi Heron để có thể giúp đỡ học viên của mình.
+
+## 19. Về VCI International
+
+**Tiêu đề:**
+- VỀ VCI INTERNATIONAL
+- Những điểm nổi bật của VCI International
+- Tầm nhìn và sứ mệnh
+- Các thành tựu đáng tự hào
+- Hệ sinh thái học tập đa dạng
+
+**Nội dung:**
+- Thành lập vào tháng 3 năm 2012, VCI International tự hào là trường đào tạo coach quốc tế đầu tiên tại Việt Nam, mang sứ mệnh tiên phong trong việc xây dựng và phát triển lĩnh vực coaching tại quốc gia này. Với hơn 12 năm hoạt động, VCI đã hỗ trợ hơn 2.000 nhà lãnh đạo và coach chuyên nghiệp chuyển hóa cuộc sống, phát triển sự nghiệp và tạo ra tác động lớn lao trong cộng đồng.
+- Những điểm nổi bật của VCI International
+- • Tiêu chuẩn quốc tế: Các chương trình đào tạo tại VCI được công nhận bởi Liên Đoàn Khai Vấn Quốc Tế (ICF) đảm bảo học viên đạt được chứng chỉ quốc tế với giá trị toàn cầu.• Hệ thống đào tạo độc quyền: VCI áp dụng phương pháp giảng dạy tiên tiến kết hợp giữa lý thuyết, thực hành và phản hồi trực tiếp, giúp học viên không chỉ học mà còn trải nghiệm sự chuyển hóa thực sự. Đội ngũ giảng viên hàng đầu: Dẫn dắt bởi thầy Trần Tiến Công, người đã có hơn một thập kỷ kinh nghiệm và từng đào tạo hàng nghìn coach tại Việt Nam.
+- • Tiêu chuẩn quốc tế: Các chương trình đào tạo tại VCI được công nhận bởi Liên Đoàn Khai Vấn Quốc Tế (ICF) đảm bảo học viên đạt được chứng chỉ quốc tế với giá trị toàn cầu.
+- • Hệ thống đào tạo độc quyền: VCI áp dụng phương pháp giảng dạy tiên tiến kết hợp giữa lý thuyết, thực hành và phản hồi trực tiếp, giúp học viên không chỉ học mà còn trải nghiệm sự chuyển hóa thực sự. Đội ngũ giảng viên hàng đầu: Dẫn dắt bởi thầy Trần Tiến Công, người đã có hơn một thập kỷ kinh nghiệm và từng đào tạo hàng nghìn coach tại Việt Nam.
+- Tầm nhìn và sứ mệnh
+- • Tầm nhìn: VCI International hướng đến việc trở thành trung tâm truyền cảm hứng và chuyển hóa sâu sắc thông qua coaching, giúp đưa coaching trở thành một công cụ phổ biến, thiết yếu trong cuộc sống và công việc của mỗi người Việt Nam. Chúng tôi không chỉ dừng lại ở việc đào tạo, mà còn xây dựng một cộng đồng coaching mạnh mẽ, nơi các nhà lãnh đạo, coach, và doanh nhân cùng kết nối, học hỏi, chia sẻ và kiến tạo giá trị. VCI mong muốn trở thành điểm tựa vững chắc cho mọi cá nhân và tổ chức, giúp họ khám phá tiềm năng, tạo ra sự thay đổi vượt bậc và đóng góp tích cực vào sự phát triển bền vững của xã hội.• Sứ mệnh: Truyền cảm hứng và thúc đẩy sự chuyển hóa từng con người một, giúp mỗi người Việt Nam có cơ hội học tập và trải nghiệm coaching để thay đổi cuộc sống và đạt được những mục tiêu cao nhất.
+- • Tầm nhìn: VCI International hướng đến việc trở thành trung tâm truyền cảm hứng và chuyển hóa sâu sắc thông qua coaching, giúp đưa coaching trở thành một công cụ phổ biến, thiết yếu trong cuộc sống và công việc của mỗi người Việt Nam. Chúng tôi không chỉ dừng lại ở việc đào tạo, mà còn xây dựng một cộng đồng coaching mạnh mẽ, nơi các nhà lãnh đạo, coach, và doanh nhân cùng kết nối, học hỏi, chia sẻ và kiến tạo giá trị. VCI mong muốn trở thành điểm tựa vững chắc cho mọi cá nhân và tổ chức, giúp họ khám phá tiềm năng, tạo ra sự thay đổi vượt bậc và đóng góp tích cực vào sự phát triển bền vững của xã hội.
+- • Sứ mệnh: Truyền cảm hứng và thúc đẩy sự chuyển hóa từng con người một, giúp mỗi người Việt Nam có cơ hội học tập và trải nghiệm coaching để thay đổi cuộc sống và đạt được những mục tiêu cao nhất.
+- Các thành tựu đáng tự hào
+- • Đào tạo hơn 2.000 coach và nhà lãnh đạo chuyên nghiệp, xây dựng một cộng đồng mạnh mẽ với hơn 2.900 thành viên.• Là đối tác chiến lược của nhiều doanh nghiệp hàng đầu tại Việt Nam, cung cấp các giải pháp coaching để phát triển đội ngũ lãnh đạo và văn hóa doanh nghiệp.• Đã tạo ra nhiều thế hệ Life Coach, Business Coach, và Executive Coach, góp phần định hình sự phát triển của ngành coaching tại Việt Nam.
+- • Đào tạo hơn 2.000 coach và nhà lãnh đạo chuyên nghiệp, xây dựng một cộng đồng mạnh mẽ với hơn 2.900 thành viên.
+- • Là đối tác chiến lược của nhiều doanh nghiệp hàng đầu tại Việt Nam, cung cấp các giải pháp coaching để phát triển đội ngũ lãnh đạo và văn hóa doanh nghiệp.
+- • Đã tạo ra nhiều thế hệ Life Coach, Business Coach, và Executive Coach, góp phần định hình sự phát triển của ngành coaching tại Việt Nam.
+- Hệ sinh thái học tập đa dạng
+- • Chương trình Level 1 (ACC): Đào tạo nền tảng coaching chuyên nghiệp.• Chương trình Level 2 (PCC): Coaching chuyên sâu với trọng tâm phát triển sự nghiệp coach chuyên nghiệp và sản phẩm coaching.• Các chương trình chuyên biệt: Tập trung vào Life Coaching, Business Coaching, Leadership Coaching, và Executive Coaching.
+- • Chương trình Level 1 (ACC): Đào tạo nền tảng coaching chuyên nghiệp.
+- • Chương trình Level 2 (PCC): Coaching chuyên sâu với trọng tâm phát triển sự nghiệp coach chuyên nghiệp và sản phẩm coaching.
+- • Các chương trình chuyên biệt: Tập trung vào Life Coaching, Business Coaching, Leadership Coaching, và Executive Coaching.
+- VCI International không chỉ là một trường đào tạo mà còn là một cộng đồng gắn kết, nơi bạn có thể bắt đầu hành trình phát triển bản thân, khai phá tiềm năng và tạo ra cuộc sống ý nghĩa hơn. Hãy để VCI đồng hành cùng bạn trên con đường chuyển hóa cuộc sống và sự nghiệp!
+
+## 20. Sự chuyển hoá (video)
+
+**Tiêu đề:**
+- Sự chuyển hoá của học viên sau chương trình
+- Transformation Coaching
+- Hành trình Coaching: ROI 400%, Thu Nhập Hơn 1,4 Tỷ Đồng
+- Bứt phá doanh thu hơn 1,5 tỷ đồng trong 8 tháng
+- Vợ em, bố em, con em cảm ơn đến thầy. Thầy đã mang đến cho em một cơ hội mới, nghề nghiệp mới, tầm cao mới của cuộc sống
+- Chỉ một năm học tập đã mang lại cho tôi công cụ chuyển hoá cuộc sống, lãnh đạo bằng hơn 15 năm trước
+- Đã trở thành coach chuyên nghiệp có hợp đồng coach 1-1 130 triệu.
+
+**Nội dung:**
+- Điều tuyệt vời nhất từ Coaching tại VCI là chứng kiến sự thành công của học viên.
+- Transformation Coach không chỉ thay đổi cuộc sống cá nhân mà còn tác động đến công việc và sự nghiệp tương lai của họ.
+- Em thấy được Ước Mơ Lớn của mình.
+- Ứng dụng thành công coaching trong tổ chức, Chi nhánh em lọt vào 20 chi nhánh xuất sắc nhất trong 130 chi nhánh Vietcombank.
+- Xây dựng được các sản phẩm coaching 1-1 giá cao, 2 chương trình Group coaching Quản Lý Thực Chiến và Coaching Hiệu Suất Cao. Tạo ra nguồn thu nhập 1.4 tỉ dù chỉ bán thời gian ROI gần 400%.
+- Em biết ơn thầy Công rất nhiều.
+- Trước khi tham gia chương trình Legacy tại Học viện VCI, tôi chưa từng nghĩ rằng mình có thể đạt được những cột mốc đáng kinh ngạc như hôm nay. Sau 9 tháng học tập và rèn luyện trong môi trường của đội ngũ VCI và dưới sự dẫn dắt của Thầy Trần Tiến Công, tôi đã vượt 120% kế hoạch năm 2024 với doanh thu hơn 1,5 tỷ đồng và đồng hành cùng 11 dự án, trong đó có 1 dự án tái tục thành công.
+- Điều làm tôi ấn tượng nhất chính là những câu hỏi sắc bén của Thầy Công, giúp tôi tự tìm ra lời giải cho những khó khăn lớn nhất trong công việc. Sự hỗ trợ từ đội ngũ VCI và năng lượng tích cực từ cộng đồng Legacy cũng chính là động lực to lớn để tôi phát triển không ngừng. Nhìn lại hành trình, tôi biết ơn vì đã lựa chọn đúng nơi để đầu tư cho sự nghiệp Coach của mình. Cảm ơn Thầy Công và đội ngũ VCI vì đã giúp tôi không chỉ đạt được những con số tài chính ấn tượng, mà còn khai phá tiềm năng bản thân để tiến xa hơn nữa.
+- LÊ CÔNG HƯNG
+- Chủ Doanh Nghiệp & High Performance Coach
+- Trịnh Hoài Văn
+- Cựu Giám Đốc Đào Tạo & Growth Mindset Coach
+- Trở thành phiên bản tốt hơn mỗi ngày.
+- Điều quý giá nhất đó là chuyển hoá hoàn toàn mối quan hệ với vợ, con và những người xung quanh, giá không thể đong đếm được bằng tiền
+- Nguyễn Mạnh Hưng
+- Transformation Coach
+
+## 21. Giới thiệu chương trình
+
+**Tiêu đề:**
+- Transformation Coaching
+- Hành trình trở thành Coach chuyên nghiệp & người lãnh đạo khai vấn chuyển hóa
+
+**Nội dung:**
+- Transformation Coach là chương trình đào tạo huấn luyện chuyên nghiệp được thiết kế phù hợp với văn hóa và nhu cầu đặc thù tại Việt Nam. Với sứ mệnh nâng tầm ngành coaching, chương trình không chỉ cung cấp kiến thức chuyên sâu mà còn đảm bảo khả năng ứng dụng thực tế trong môi trường làm việc và cuộc sống tại Việt Nam.
+- Trước đây được biết đến với tên gọi "Khai vấn cho lãnh đạo và Coach chuyên nghiệp" đã tổ chức 46 khóa học tại Hà Nội và Sài Gòn, đào tạo hơn 2,000 người Coach, góp phần xây dựng một cộng đồng huấn luyện viên chuyên nghiệp lớn mạnh tại Việt Nam.
+- Transformation Coach không chỉ là một khóa học, mà là hành trình chuyển hóa cuộc sống và để trở thành một Coach chuyên nghiệp, góp phần thúc đẩy sự phát triển và thay đổi tích cực cuộc sống con người Việt Nam.
+
+## 22. Cảm nhận — Ứng dụng vào cuộc sống
+
+**Tiêu đề:**
+- Hành trình ứng dụng Coaching
+- vào cuộc sống cá nhân
+- Tôi tìm lại được mối liên kết chân thật nhất với bản thân mình
+- Coaching có thể giúp mọi người giải tỏa điều này, tìm kiếm một cuộc sống cần bằng giữa cá nhân và gia đình
+- Tôi được làm chủ cuộc sống của mình, tự tin đưa ra những lựa chọn của riêng mình
+- Tuổi tác không phải là rào cản mà chính là sức mạnh để theo đuổi ước mơ
+- Chương trình này đã thay đổi hoàn toàn cách tôi nhìn nhận cuộc sống
+- Khóa học đã cho tôi cơ hội khám phá coaching từ một góc nhìn mới
+- VCI là cộng đồng của những sự tử tế - yêu thương - gắn kết
+- Học để trở thành Coach nhưng thực sự là để hiểu bản thân mình
+- Tôi ước mình đã biết chương trình này sớm hơn thì đã không sống tiếc nuối
+
+**Nội dung:**
+- Trước đây, tôi cảm thấy bế tắc trong công việc và cuộc sống. Là một bác sĩ, tôi nhận ra rằng chỉ kê đơn thuốc hay chẩn đoán thôi chưa đủ để thực sự kết nối và giúp đỡ bệnh nhân.
+- Tham gia chương trình tại VCI, tôi không chỉ học cách thấu hiểu bản thân mà còn khám phá cách giúp bệnh nhân thay đổi cuộc sống, không phải qua thuốc hay quy trình, mà qua sự phù hợp với giá trị và niềm tin của họ.
+- Những câu hỏi đơn giản nhưng sâu sắc mà tôi học được đã mở ra cánh cửa để tôi kết nối tốt hơn với mọi người và thay đổi cách tiếp cận vấn đề.
+- Đây thực sự là một hành trình ý nghĩa mà tôi muốn giới thiệu đến tất cả những ai mong muốn giúp đỡ người khác và khám phá bản thân.
+- Hoàng Thị Ngọc Hà
+- Tiến Sĩ | Bác sĩ | Health Coach
+- Khóa học không chỉ giúp tôi nhận ra những giá trị tiềm ẩn bên trong bản thân, mà còn cung cấp những công cụ để tôi áp dụng chúng vào thực tế. Tôi học được cách thấu hiểu và yêu thương chính mình, giải quyết những mâu thuẫn nội tâm và tạo dựng một tầm nhìn rõ ràng cho tương lai.
+- Điều đặc biệt nhất chính là sự tận tâm và phương pháp giảng dạy đầy cảm hứng của thầy Công. Mỗi buổi học là một hành trình khám phá sâu sắc, không chỉ về kiến thức mà còn về chính con người tôi. Sự đồng hành của thầy đã giúp tôi vượt qua những giới hạn của bản thân và tự tin tiến bước trên con đường mà tôi đã chọn.
+- Tôi tin rằng, nếu bạn đang tìm kiếm một cơ hội để trở thành phiên bản tốt hơn của chính mình, thì khóa học tại VCI là nơi bạn nên bắt đầu.
+- Đặng Thị Thanh Tuyền
+- PGD chi nhánh ngân hàng Sacombank
+- Trước khi tham gia chương trình, tôi thực sự bối rối không biết mình nên đi theo con đường nào. Tôi thường xuyên mâu thuẫn giữa những giá trị cá nhân và những gì xã hội mong đợi ở mình.
+- Nhờ chương trình này, tôi nhận ra rằng tôi hoàn toàn có quyền làm chủ cuộc đời mình. Tôi học được cách lắng nghe chính mình và tự tin thực hiện những điều mình thật sự mong muốn.
+- Cuộc sống của tôi giờ đây trở nên ý nghĩa hơn bao giờ hết với sự kết nối sâu sắc giữa mình với chồng và con.
+- Châu Thị Thùy Trang
+- Doanh nhân - Nhà khởi nghiệp
+- Hơn 30 năm làm Giám đốc Điều hành tại một ngân hàng đã dạy tôi rằng phát triển con người là yếu tố cốt lõi để bất kỳ doanh nghiệp nào có thể thành công bền vững. Tuy nhiên, tôi luôn tự hỏi làm thế nào để mang lại giá trị lớn hơn không chỉ cho tổ chức mà còn cho bản thân và cộng đồng.
+- Khóa học tại VCI giúp tôi có một niềm tin vững chắc rằng tuổi tác không phải là rào cản. Thay vào đó, nó chính là minh chứng cho sự trưởng thành và những kinh nghiệm quý báu mà tôi có thể tận dụng để thực hiện ước mơ của mình.
+- Đối với nhiều người, đây có thể được xem là giai đoạn cuối của sự nghiệp. Nhưng với tôi, đây lại là một bước ngoặt – một giai đoạn tuyệt vời để tìm kiếm công việc ý nghĩa hơn, không chỉ cho bản thân mà còn để đóng góp giá trị cho cộng đồng.
+- Lê Thanh Mai
+- Giám đốc chi nhánh Ngân Hàng
+- Khi bắt đầu chương trình, tôi chỉ hy vọng tìm hiểu rõ hơn về coaching và cách sử dụng nó để giúp đỡ mọi người.
+- Trước đây, tôi đã coaching không chính thức, nhưng luôn cảm thấy thiếu một hệ thống, thiếu công cụ để thực sự tạo ra sự thay đổi.
+- Tuy nhiên, những gì tôi nhận được vượt xa mong đợi. Khóa học không chỉ giúp tôi phát triển kỹ năng mà còn truyền cảm hứng để sống một cuộc đời ý nghĩa hơn.
+- Tôi học được cách nhìn nhận sâu sắc hơn về chính mình và những người xung quanh, biết cách chuyển hóa khó khăn thành cơ hội, và tự tin chia sẻ giá trị với thế giới.
+- Nguyễn Mạnh Hưng
+- Transformation Coach
+- Tôi tham gia chương trình Đào tạo Coach tại VCI với mong muốn tích hợp coaching vào các chương trình đào tạo về Lãnh đạo Đa Văn Hóa và Phát Triển Đội Nhóm, vốn là trọng tâm trong công việc kinh doanh của tôi.
+- Trải nghiệm từ chương trình thật sự tuyệt vời và đầy cảm hứng. Tôi có cơ hội nhìn nhận coaching từ một góc độ hoàn toàn mới hoàn toàn bị thuyết phục bởi phương pháp tiếp cận rất khoa học và căn bản của VCI.
+- Mặc dù tôi đã có kinh nghiệm coaching trước đây, nhưng chương trình đã mang lại cho tôi nhiều chiều sâu mới đặc biệt về cách tạo ra trải nghiệm coaching tốt nhất cho khách hàng
+- Trịnh Hoài Văn
+- Performance Coach
+- Đối với tôi, thứ tạo nên sự thành công vượt trội của VCI đó là tính gắn kết trong cộng đồng.
+- Tôi chưa bao giờ được trải nghiệm một cộng đồng tràn ngập yêu thương và gắn kết mạnh mẽ như thế.
+- Tôi được cùng học, cùng chơi và cùng nhau trải nghiệm những cảm xúc mà hơn 40 năm trong cuộc đời tôi chưa bao giờ dám thể hiện.
+- Hành trình đồng hành cùng Legacy Team luôn là một thứ tôi giữ riêng cho mình để làm động lực trước những thách thức và khó khăn mới đến trong cuộc sống
+- Cảm ơn tất cả thành viên của VCI và Legacy Mentoring đã luôn mang lại cho tôi một cảm giác mong muốn được trở về để cống hiến.
+- Long Biên
+- Digital Business Coach
+- Tôi bắt đầu chương trình đào tạo tại VCI với khát khao mãnh liệt trở thành một Coach chuyên nghiệp, và kết thúc hành trình với niềm tin rằng tôi đã thực sự trở thành một người như thế.
+- Đây không chỉ là việc học cách hỗ trợ người khác; đó là hành trình sống trọn vẹn với những giá trị như sự nhận thức, tình yêu bản thân, và một cuộc đời đầy ý nghĩa. Tôi nhận ra rằng, làm Coach không chỉ là một vai trò – nó là một phần trong con người tôi.
+- Nhưng đây chưa phải là kết thúc – mà là sự khởi đầu mới. Tôi cam kết tiếp tục phát triển, cả với tư cách là một Coachee và một Coach. Hành trình của tôi mới chỉ bắt đầu, và tôi đã sẵn sàng để giúp người khác bắt đầu hành trình của riêng họ.
+- Hải Anh
+- Coach chuyên nghiệp
+- Trước khi tham gia chương trình này, tôi không hề biết Life Coach là gì. Tôi chỉ biết rằng mình muốn giúp mọi người trở thành phiên bản tốt nhất của chính họ và đạt được mục tiêu trong khi góp phần làm cho thế giới trở nên tốt đẹp hơn.
+- Tuy nhiên, tôi đã trải qua một giai đoạn khủng hoảng nhân dạng sâu sắc. Tôi cảm thấy mất phương hướng, không chắc chắn về giá trị của bản thân và không biết làm sao để sống một cuộc đời có ý nghĩa hơn.
+- Sau hai năm tìm kiếm bản thân qua thiền, rèn luyện sức khỏe và thay đổi lối sống, tôi nhận ra mình cần thêm sự hướng dẫn. Và rồi, chương trình này xuất hiện như một ngọn đèn soi sáng hành trình của tôi.
+- Tôi rất vui khi mình đã lựa chọn đồng hành cùng chương trình
+- Lê Công Hưng
+
+## 23. Cam kết hài lòng 100%
+
+**Tiêu đề:**
+- Cam Kết Hài Lòng 100% Dành Cho Bạn
+
+**Nội dung:**
+- Chúng tôi tự tin rằng chương trình của mình không chỉ đáp ứng mà còn vượt xa kỳ vọng của bạn. Vì vậy, chúng tôi đưa ra cam kết mạnh mẽ:
+- Nếu bạn không cảm thấy chương trình mang lại giá trị vượt trội ít nhất 200% như mong đợi, chúng tôi sẽ hoàn lại toàn bộ chi phí cho bạn – mà không cần bất kỳ câu hỏi nào.
+- Mục tiêu của chúng tôi không dừng lại ở việc cung cấp kiến thức, mà là giúp bạn tạo ra sự thay đổi thực sự và bền vững trong cuộc sống của mình. Hãy tham gia đầy đủ, áp dụng những gì bạn đã học, và nếu bạn không nhìn thấy sự thay đổi rõ ràng, chúng tôi sẽ tôn trọng cam kết hoàn tiền.
+- Với lời bảo đảm này, bạn hoàn toàn an tâm tham gia – không có gì để mất, chỉ có những giá trị lớn lao đang chờ đợi.
+
+## 24. Câu hỏi thường gặp
+
+**Tiêu đề:**
+- FAQs
+- Câu Hỏi Thường gặp
+- 1. Đây là chương trình về Life Coach, Business Coach, Leadership Coach hay Executive Coach?
+- 2. Chương trình có được chứng nhận quốc tế không? Thời hạn của bằng là bao lâu?
+- 3. Sau khi học xong, tôi có đủ điều kiện để lấy ACC Credential không?
+- 4. Tôi được đảm bảo điều gì? Có chính sách hoàn tiền không?
+- 5. Tôi đang rất bận, liệu có thể tham gia chương trình không?
+- 6. Bao lâu để tôi tạo ra kết quả?
+- 7. Tôi là người hướng nội, có phù hợp với nghề coach không?
+- 8. Tôi cần có kinh nghiệm hay kiến thức cụ thể nào để tham gia không?
+- 9. Làm sao để biết chương trình này phù hợp với mục tiêu của tôi?
+- 10. Tôi nhận được sự hỗ trợ nào trong chương trình?
+- 11. Sau chương trình, tôi có cộng đồng nào để kết nối không?
+- Hãy tham gia để chuyển hóa cuộc sống và bắt đầu sự nghiệp khai vấn của chính bạn!
+
+**Nội dung:**
+- 1. Đây là chương trình về Life Coach, Business Coach, Leadership Coach hay Executive Coach?
+- Chương trình Transformation Coach Level 1 không giới hạn trong một lĩnh vực cụ thể như Life Coach, Business Coach, Leadership Coach hay Executive Coach. Đây là một chương trình nền tảng toàn diện, giúp bạn phát triển các kỹ năng coaching cốt lõi và tư duy cần thiết để trở thành một coach chuyên nghiệp.Bạn sẽ:✔︎ Học cách áp dụng kỹ năng coaching vào nhiều lĩnh vực, từ cuộc sống cá nhân đến kinh doanh, lãnh đạo và điều hành.✔︎ Xây dựng nền tảng vững chắc để phát triển chuyên môn sâu hơn ở các cấp độ tiếp theo (Level 2 và Level 3).Tóm lại, đây là bước khởi đầu lý tưởng cho hành trình trở thành một coach trong bất kỳ lĩnh vực nào bạn lựa chọn.
+- Chương trình Transformation Coach Level 1 không giới hạn trong một lĩnh vực cụ thể như Life Coach, Business Coach, Leadership Coach hay Executive Coach.
+- Đây là một chương trình nền tảng toàn diện, giúp bạn phát triển các kỹ năng coaching cốt lõi và tư duy cần thiết để trở thành một coach chuyên nghiệp.
+- Bạn sẽ:
+- ✔︎ Học cách áp dụng kỹ năng coaching vào nhiều lĩnh vực, từ cuộc sống cá nhân đến kinh doanh, lãnh đạo và điều hành.
+- ✔︎ Xây dựng nền tảng vững chắc để phát triển chuyên môn sâu hơn ở các cấp độ tiếp theo (Level 2 và Level 3).
+- Tóm lại, đây là bước khởi đầu lý tưởng cho hành trình trở thành một coach trong bất kỳ lĩnh vực nào bạn lựa chọn.
+- 2. Chương trình có được chứng nhận quốc tế không? Thời hạn của bằng là bao lâu?
+- Sau khi tốt nghiệp, bạn sẽ nhận được chứng chỉ Transformational Coaching - ICF Level 1 do VCI International cấp. Chứng chỉ này có giá trị quốc tế, được chứng nhận bởi Liên Đoàn Khai Vấn Quốc Tế (International Coaching Federation - ICF) và có giá trị trọn đời.
+- 3. Sau khi học xong, tôi có đủ điều kiện để lấy ACC Credential không?
+- Hoàn thành chương trình, bạn sẽ đạt 75 giờ đào tạo ICF Level 1. Ngay khi bạn tích lũy đủ 100 giờ thực hành coaching, bạn có thể nộp đơn trực tiếp lên ICF để thi lấy chứng chỉ ACC Credential. VCI sẽ hỗ trợ hướng dẫn bạn trong quá trình này.👉 Tham khảo thêm tại: ICF Credential Pathways.
+- Hoàn thành chương trình, bạn sẽ đạt 75 giờ đào tạo ICF Level 1. Ngay khi bạn tích lũy đủ 100 giờ thực hành coaching, bạn có thể nộp đơn trực tiếp lên ICF để thi lấy chứng chỉ ACC Credential. VCI sẽ hỗ trợ hướng dẫn bạn trong quá trình này.
+- 👉 Tham khảo thêm tại: ICF Credential Pathways.
+- 4. Tôi được đảm bảo điều gì? Có chính sách hoàn tiền không?
+- VCI cam kết mang lại sự hài lòng vượt trội. Nếu sau 3 ngày đầu của Module 1, bạn cảm thấy chương trình không đáp ứng kỳ vọng, hãy trao đổi với VCI Team. Bạn sẽ được hoàn tiền 100% trong vòng 5 ngày làm việc.
+- 5. Tôi đang rất bận, liệu có thể tham gia chương trình không?
+- Bạn cần cam kết thời gian như sau:✔︎ Học trực tiếp: Tham gia đầy đủ 5 ngày học trực tiếp tại lớp (Module 1 và Module 3). Vắng tối đa 0.5 ngày (trong trường hợp bắt buộc) sẽ có giảng viên hỗ trợ bù kiến thức. Vắng 1 ngày sẽ không đạt điều kiện tốt nghiệp.✔︎ Học hàng tuần: Mỗi tuần, dành 5 giờ gồm 2 giờ tham gia Group Coaching và 3 giờ thực hành coaching. Nếu bận, bạn có thể xem lại bản ghi các buổi Group Coaching.
+- Bạn cần cam kết thời gian như sau:
+- ✔︎ Học trực tiếp: Tham gia đầy đủ 5 ngày học trực tiếp tại lớp (Module 1 và Module 3). Vắng tối đa 0.5 ngày (trong trường hợp bắt buộc) sẽ có giảng viên hỗ trợ bù kiến thức. Vắng 1 ngày sẽ không đạt điều kiện tốt nghiệp.
+- ✔︎ Học hàng tuần: Mỗi tuần, dành 5 giờ gồm 2 giờ tham gia Group Coaching và 3 giờ thực hành coaching. Nếu bận, bạn có thể xem lại bản ghi các buổi Group Coaching.
+- 6. Bao lâu để tôi tạo ra kết quả?
+- ✔︎ Nhiều học viên cảm nhận sự chuyển hóa tư duy và cuộc sống ngay sau 3 ngày đầu của Module 1.✔︎ Một số học viên có khách hàng trả tiền coaching trong Module 2.✔︎ Dù thời gian chuyển hóa khác nhau, hầu hết học viên đều báo cáo cải thiện vượt bậc trong giao tiếp, mối quan hệ và công việc.
+- ✔︎ Nhiều học viên cảm nhận sự chuyển hóa tư duy và cuộc sống ngay sau 3 ngày đầu của Module 1.
+- ✔︎ Một số học viên có khách hàng trả tiền coaching trong Module 2.
+- ✔︎ Dù thời gian chuyển hóa khác nhau, hầu hết học viên đều báo cáo cải thiện vượt bậc trong giao tiếp, mối quan hệ và công việc.
+- 7. Tôi là người hướng nội, có phù hợp với nghề coach không?
+- Hoàn toàn phù hợp! Nghề coach không đòi hỏi bạn phải hướng ngoại hay hoạt ngôn. Điều quan trọng là khả năng lắng nghe và kết nối – những kỹ năng mà người hướng nội thường làm rất tốt. Chính thầy Công, một người hướng nội, là minh chứng rằng hướng nội không hề là rào cản để thành công trong nghề coach.
+- 8. Tôi cần có kinh nghiệm hay kiến thức cụ thể nào để tham gia không?
+- Không cần. Coaching giúp khai mở tiềm năng bên trong khách hàng thông qua lắng nghe và đặt câu hỏi. Bạn không cần phải có kiến thức chuyên môn hay kinh nghiệm trong lĩnh vực cụ thể để trở thành một coach hiệu quả.
+- 9. Làm sao để biết chương trình này phù hợp với mục tiêu của tôi?
+- Nếu bạn cam kết phát triển bản thân, muốn học một phương pháp khoa học để phát triển con người và đội nhóm, thì chương trình này dành cho bạn. Hãy trải nghiệm 3 ngày đầu của Module 1 và nếu chương trình không phù hợp, bạn sẽ được hoàn tiền 100%.
+- 10. Tôi nhận được sự hỗ trợ nào trong chương trình?
+- Bạn được hỗ trợ ở 3 cấp độ:✔︎ Peer Coaching: Thực hành với 3 học viên khác để rèn kỹ năng.✔︎ VCI Crew: Nhận phản hồi từ các coach đã tốt nghiệp và có kinh nghiệm.✔︎ Thầy Công: Coach trực tiếp trong lớp và Group Coaching.Ngoài ra, mọi câu hỏi của bạn sẽ được giải đáp qua nhóm Zalo/Facebook của lớp.
+- Bạn được hỗ trợ ở 3 cấp độ:
+- ✔︎ Peer Coaching: Thực hành với 3 học viên khác để rèn kỹ năng.
+- ✔︎ VCI Crew: Nhận phản hồi từ các coach đã tốt nghiệp và có kinh nghiệm.
+- ✔︎ Thầy Công: Coach trực tiếp trong lớp và Group Coaching.
+- Ngoài ra, mọi câu hỏi của bạn sẽ được giải đáp qua nhóm Zalo/Facebook của lớp.
+- 11. Sau chương trình, tôi có cộng đồng nào để kết nối không?
+- Sau tốt nghiệp, bạn trở thành thành viên của cộng đồng VCI Coach Alumni – nơi có hơn 2.900 coach để kết nối, học hỏi và duy trì động lực phát triển.
+
+## 25. Footer
+
+**Tiêu đề:**
+- CÔNG TY TNHH VCI INTERNATIONAL
+- Liên kết
+
+**Nội dung:**
+- Địa chỉ: Tầng 46, Tòa tháp Tài chính Bitexco, Số 2, đường Hải Triều, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
+- Điện thoại: (+84)938 840 087
+- Email: [email protected]
+- [email protected]
+- Facebook
+- LinkedIn
+- Youtube
+- TikTok
+- Điều khoản sử dụng
+- Chính sách bảo mật
+
+## 26. Footer (bản quyền)
+
+**Nội dung:**
+- Copyrights 2024 | VCI International | Terms & Conditions
+
+## 27. Section 27
+
